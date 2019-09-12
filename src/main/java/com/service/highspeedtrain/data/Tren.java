@@ -1,8 +1,10 @@
 package com.service.highspeedtrain.data;
 
 import lombok.Data;
+import lombok.ToString;
 
 @Data
+@ToString
 public class Tren {
 
 	private String saat;

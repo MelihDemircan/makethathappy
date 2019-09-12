@@ -4,6 +4,7 @@ import java.net.CookieHandler;
 import java.net.CookieManager;
 import java.net.URLEncoder;
 import java.util.List;
+import java.util.stream.Collectors;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
@@ -18,8 +19,8 @@ public class Gidis {
 	private MailService mailService;
 	
 	private final String tarih = "13.09.2019";
-	private final String nereye = "%C4%B0stanbul(Pendik)";
-	private final String nereden = "Eski%C5%9Fehir";
+	private final String nereden = "%C4%B0stanbul(Pendik)";
+	private final String nereye = "Eski%C5%9Fehir";
 	private final String site = "https://ebilet.tcddtasimacilik.gov.tr/view/eybis/tnmGenel/tcddWebContent.jsf";
 	private final String resultSite = "https://ebilet.tcddtasimacilik.gov.tr/view/eybis/tnmGenel/int_sat_001.jsf";
 
@@ -52,7 +53,8 @@ public class Gidis {
 				.orElse(null);
 
 
-			
+		System.out.println(trenList.stream().map(Object::toString).collect(Collectors.joining(",")));			
+		
 		if (ilk != null) {
 			System.out.println("Sefer Bulundu 17:44");
 			mailService.send("Eskisehir Istanbul  (17:44) (" + tarih + ") " + "(" + ilk.getPulman() + ")");
