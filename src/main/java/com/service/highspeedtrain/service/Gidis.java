@@ -47,7 +47,7 @@ public class Gidis {
 
 		List<Tren> trenList = http.getFormParams(resultTrenList);
 
-		Tren one = trenList.stream().filter(tren -> tren.getSaat().equals("17:44")).findAny().orElse(null);
+//		Tren one = trenList.stream().filter(tren -> tren.getSaat().equals("17:44")).findAny().orElse(null);
 		Tren two = trenList.stream().filter(tren -> tren.getSaat().equals("18:21")).findAny().orElse(null);
 		Tren tre = trenList.stream().filter(tren -> tren.getSaat().equals("19:31")).findAny().orElse(null);
 
@@ -55,10 +55,11 @@ public class Gidis {
 
 		System.out.println(trenList.stream().map(Object::toString).collect(Collectors.joining(",")));
 
-		if (one != null && one.isPulman()) {
-			System.out.println("Sefer Bulundu 17:44");
-			mailService.send("Eskisehir Istanbul  (17:44) (" + tarih + ") " + "(" + one.getPulman() + ")");
-		} else if (two != null && two.isPulman()) {
+//		if (one != null && one.isPulman()) {
+//			System.out.println("Sefer Bulundu 17:44");
+//			mailService.send("Eskisehir Istanbul  (17:44) (" + tarih + ") " + "(" + one.getPulman() + ")");
+//		} else
+		if (two != null && two.isPulman()) {
 			System.out.println("Sefer Bulundu 18:21");
 			mailService.send("Eskisehir Istanbul  (18:21) (" + tarih + ") " + "(" + two.getPulman() + ")");
 		} else if (tre != null && tre.isPulman()) {
@@ -68,10 +69,11 @@ public class Gidis {
 			System.out.println("Sefer Yok (Economi)");
 		}
 
-		if (one != null && one.isBusiness()) {
-			System.out.println("Sefer Bulundu 17:44");
-			mailService.send("Eskisehir Istanbul  (17:44) (" + tarih + ") " + "(" + one.getBusiness() + ")");
-		} else if (two != null && two.isBusiness()) {
+//		if (one != null && one.isBusiness()) {
+//			System.out.println("Sefer Bulundu 17:44");
+//			mailService.send("Eskisehir Istanbul  (17:44) (" + tarih + ") " + "(" + one.getBusiness() + ")");
+//		} else
+		if (two != null && two.isBusiness()) {
 			System.out.println("Sefer Bulundu 18:21");
 			mailService.send("Eskisehir Istanbul  (18:21) (" + tarih + ") " + "(" + two.getBusiness() + ")");
 		} else if (tre != null && tre.isBusiness()) {
