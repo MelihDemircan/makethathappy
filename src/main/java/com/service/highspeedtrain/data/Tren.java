@@ -15,5 +15,9 @@ public class Tren {
 	public boolean isPulman() {
 		return !pulman.equals("0");
 	}
+	
+	public boolean isBusiness() {
+		return !business.equals("0");
+	}
 
 }

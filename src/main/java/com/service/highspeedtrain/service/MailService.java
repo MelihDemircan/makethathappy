@@ -17,6 +17,8 @@ public class MailService {
 
 	public void send(String konu) {
 
+		System.out.println("E-Mail Gonderiliyor");
+
 		final String username = "melih.demircan@fmsstech.com";
 		final String password = "245623mel";
 
