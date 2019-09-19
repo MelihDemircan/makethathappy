@@ -54,7 +54,7 @@ public class Gidis {
 
 		// Donus
 		Tren two = trenList.stream().filter(tren -> tren.getSaat().equals("18:21")).findAny().orElse(null);
-		Tren tre = trenList.stream().filter(tren -> tren.getSaat().equals("17:44")).findAny().orElse(null);
+//		Tren tre = trenList.stream().filter(tren -> tren.getSaat().equals("17:44")).findAny().orElse(null);
 
 		System.out.println(nereden + "/" + nereye + "/" + tarih);
 
@@ -68,11 +68,13 @@ public class Gidis {
 			System.out.println("Sefer Bulundu " + two.getSaat());
 			mailService
 					.send("Eskisehir Istanbul (" + two.getSaat() + ") (" + tarih + ") " + "(" + two.getPulman() + ")");
-		} else if (tre != null && tre.isPulman()) {
-			System.out.println("Sefer Bulundu " + tre.getSaat());
-			mailService
-					.send("Eskisehir Istanbul (" + tre.getSaat() + ") (" + tarih + ") " + "(" + tre.getPulman() + ")");
-		} else {
+		} 
+//		else if (tre != null && tre.isPulman()) {
+//			System.out.println("Sefer Bulundu " + tre.getSaat());
+//			mailService
+//					.send("Eskisehir Istanbul (" + tre.getSaat() + ") (" + tarih + ") " + "(" + tre.getPulman() + ")");
+//		} 
+		else {
 			System.out.println("Sefer Yok (Economi)");
 		}
 
