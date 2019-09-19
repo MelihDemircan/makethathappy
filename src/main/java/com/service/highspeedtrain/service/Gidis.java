@@ -18,9 +18,9 @@ public class Gidis {
 	@Autowired
 	private MailService mailService = new MailService();
 
-	private final String tarih = "15.09.2019";
-	private final String nereye  = "%C4%B0stanbul(Pendik)";
-	private final String nereden = "Eski%C5%9Fehir";
+	private final String tarih = "20.09.2019";
+	private final String nereden = "%C4%B0stanbul(Pendik)";
+	private final String nereye = "Eski%C5%9Fehir";
 	private final String site = "https://ebilet.tcddtasimacilik.gov.tr/view/eybis/tnmGenel/tcddWebContent.jsf";
 	private final String resultSite = "https://ebilet.tcddtasimacilik.gov.tr/view/eybis/tnmGenel/int_sat_001.jsf";
 
@@ -47,15 +47,14 @@ public class Gidis {
 
 		List<Tren> trenList = http.getFormParams(resultTrenList);
 
-		//Gidis
+		// Gidis
 //		Tren one = trenList.stream().filter(tren -> tren.getSaat().equals("17:44")).findAny().orElse(null);
 //		Tren two = trenList.stream().filter(tren -> tren.getSaat().equals("18:21")).findAny().orElse(null);
 //		Tren tre = trenList.stream().filter(tren -> tren.getSaat().equals("19:31")).findAny().orElse(null);
 
-		
-		//Donus
-		Tren two = trenList.stream().filter(tren -> tren.getSaat().equals("20:38")).findAny().orElse(null);
-		Tren tre = trenList.stream().filter(tren -> tren.getSaat().equals("20:11")).findAny().orElse(null);
+		// Donus
+		Tren two = trenList.stream().filter(tren -> tren.getSaat().equals("18:21")).findAny().orElse(null);
+		Tren tre = trenList.stream().filter(tren -> tren.getSaat().equals("17:44")).findAny().orElse(null);
 
 		System.out.println(nereden + "/" + nereye + "/" + tarih);
 
@@ -66,11 +65,13 @@ public class Gidis {
 //			mailService.send("Eskisehir Istanbul  (17:44) (" + tarih + ") " + "(" + one.getPulman() + ")");
 //		} else
 		if (two != null && two.isPulman()) {
-			System.out.println("Sefer Bulundu 20:38");
-			mailService.send("Eskisehir Istanbul  (20:38) (" + tarih + ") " + "(" + two.getPulman() + ")");
+			System.out.println("Sefer Bulundu " + tren.getSaat());
+			mailService
+					.send("Eskisehir Istanbul (" + tren.getSaat() + ") (" + tarih + ") " + "(" + two.getPulman() + ")");
 		} else if (tre != null && tre.isPulman()) {
-			System.out.println("Sefer Bulundu 20:11");
-			mailService.send("Eskisehir Istanbul  (20:11) (" + tarih + ") " + "(" + tre.getPulman() + ")");
+			System.out.println("Sefer Bulundu " + tren.getSaat());
+			mailService
+					.send("Eskisehir Istanbul (" + tren.getSaat() + ") (" + tarih + ") " + "(" + tre.getPulman() + ")");
 		} else {
 			System.out.println("Sefer Yok (Economi)");
 		}
