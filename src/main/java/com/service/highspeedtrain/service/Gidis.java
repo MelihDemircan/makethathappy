@@ -65,13 +65,13 @@ public class Gidis {
 //			mailService.send("Eskisehir Istanbul  (17:44) (" + tarih + ") " + "(" + one.getPulman() + ")");
 //		} else
 		if (two != null && two.isPulman()) {
-			System.out.println("Sefer Bulundu " + tren.getSaat());
+			System.out.println("Sefer Bulundu " + two.getSaat());
 			mailService
-					.send("Eskisehir Istanbul (" + tren.getSaat() + ") (" + tarih + ") " + "(" + two.getPulman() + ")");
+					.send("Eskisehir Istanbul (" + two.getSaat() + ") (" + tarih + ") " + "(" + two.getPulman() + ")");
 		} else if (tre != null && tre.isPulman()) {
-			System.out.println("Sefer Bulundu " + tren.getSaat());
+			System.out.println("Sefer Bulundu " + tre.getSaat());
 			mailService
-					.send("Eskisehir Istanbul (" + tren.getSaat() + ") (" + tarih + ") " + "(" + tre.getPulman() + ")");
+					.send("Eskisehir Istanbul (" + tre.getSaat() + ") (" + tarih + ") " + "(" + tre.getPulman() + ")");
 		} else {
 			System.out.println("Sefer Yok (Economi)");
 		}
