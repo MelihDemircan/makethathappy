@@ -1,0 +1,2501 @@
+# Created on 2019-09-12T22:20:59.263
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+# Created on 2019-09-12T22:20:59.279
+Unexpected IOException with stream: 2019-09-12 22:20:59.278 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.281
+Unexpected IOException with stream: 2019-09-12 22:20:59.280 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.292
+Unexpected IOException with stream: 2019-09-12 22:20:59.292 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.293
+Unexpected IOException with stream: 2019-09-12 22:20:59.293 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.295
+Unexpected IOException with stream: 2019-09-12 22:20:59.295 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Found key 'spring.h2.console.enabled' in PropertySource 'configurationProperties' with value of type String
+
+
+# Created on 2019-09-12T22:20:59.296
+Unexpected IOException with stream: 2019-09-12 22:20:59.295 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.297
+Unexpected IOException with stream: 2019-09-12 22:20:59.297 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.298
+Unexpected IOException with stream: 2019-09-12 22:20:59.298 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.301
+Unexpected IOException with stream: 2019-09-12 22:20:59.301 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.303
+Unexpected IOException with stream: 2019-09-12 22:20:59.303 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.306
+Unexpected IOException with stream: 2019-09-12 22:20:59.305 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.311
+Unexpected IOException with stream: 2019-09-12 22:20:59.311 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.317
+Unexpected IOException with stream: 2019-09-12 22:20:59.316 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.318
+Unexpected IOException with stream: 2019-09-12 22:20:59.318 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.319
+Unexpected IOException with stream: 2019-09-12 22:20:59.319 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.321
+Unexpected IOException with stream: 2019-09-12 22:20:59.321 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.322
+Unexpected IOException with stream: 2019-09-12 22:20:59.322 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.323
+Unexpected IOException with stream: 2019-09-12 22:20:59.323 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.324
+Unexpected IOException with stream: 2019-09-12 22:20:59.324 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.325
+Unexpected IOException with stream: 2019-09-12 22:20:59.325 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.326
+Unexpected IOException with stream: 2019-09-12 22:20:59.326 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.327
+Unexpected IOException with stream: 2019-09-12 22:20:59.327 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.328
+Unexpected IOException with stream: 2019-09-12 22:20:59.328 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.330
+Unexpected IOException with stream: 2019-09-12 22:20:59.329 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.333
+Unexpected IOException with stream: 2019-09-12 22:20:59.332 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.334
+Unexpected IOException with stream: 2019-09-12 22:20:59.333 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.335
+Unexpected IOException with stream: 2019-09-12 22:20:59.334 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.336
+Unexpected IOException with stream: 2019-09-12 22:20:59.336 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.342
+Unexpected IOException with stream: 2019-09-12 22:20:59.342 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Found key 'server.port' in PropertySource 'configurationProperties' with value of type String
+
+
+# Created on 2019-09-12T22:20:59.345
+Unexpected IOException with stream: 2019-09-12 22:20:59.344 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'management.server.port' in any property source
+
+
+# Created on 2019-09-12T22:20:59.346
+Unexpected IOException with stream: 2019-09-12 22:20:59.345 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.347
+Unexpected IOException with stream: 2019-09-12 22:20:59.346 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Found key 'server.port' in PropertySource 'configurationProperties' with value of type String
+
+
+# Created on 2019-09-12T22:20:59.347
+Unexpected IOException with stream: 2019-09-12 22:20:59.347 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'management.server.port' in any property source
+
+
+# Created on 2019-09-12T22:20:59.348
+Unexpected IOException with stream: 2019-09-12 22:20:59.348 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.362
+Unexpected IOException with stream: 2019-09-12 22:20:59.361 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.363
+Unexpected IOException with stream: 2019-09-12 22:20:59.363 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.364
+Unexpected IOException with stream: 2019-09-12 22:20:59.363 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.364
+Unexpected IOException with stream: 2019-09-12 22:20:59.364 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.366
+Unexpected IOException with stream: 2019-09-12 22:20:59.365 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.372
+Unexpected IOException with stream: 2019-09-12 22:20:59.370 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'springfox.documentation.schema.configuration.ModelsConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.374
+Unexpected IOException with stream: 2019-09-12 22:20:59.374 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method springfox.documentation.schema.configuration.ModelsConfiguration.typeResolver()
+
+
+# Created on 2019-09-12T22:20:59.378
+Unexpected IOException with stream: 2019-09-12 22:20:59.377 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'springfox.documentation.spring.web.SpringfoxWebMvcConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.378
+Unexpected IOException with stream: 2019-09-12 22:20:59.378 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method springfox.documentation.spring.web.SpringfoxWebMvcConfiguration.defaults()
+
+
+# Created on 2019-09-12T22:20:59.379
+Unexpected IOException with stream: 2019-09-12 22:20:59.379 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method springfox.documentation.spring.web.SpringfoxWebMvcConfiguration.resourceGroupCache()
+
+
+# Created on 2019-09-12T22:20:59.380
+Unexpected IOException with stream: 2019-09-12 22:20:59.379 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method springfox.documentation.spring.web.SpringfoxWebMvcConfiguration.objectMapperConfigurer()
+
+
+# Created on 2019-09-12T22:20:59.380
+Unexpected IOException with stream: 2019-09-12 22:20:59.380 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method springfox.documentation.spring.web.SpringfoxWebMvcConfiguration.jsonSerializer()
+
+
+# Created on 2019-09-12T22:20:59.381
+Unexpected IOException with stream: 2019-09-12 22:20:59.381 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method springfox.documentation.spring.web.SpringfoxWebMvcConfiguration.descriptionResolver()
+
+
+# Created on 2019-09-12T22:20:59.383
+Unexpected IOException with stream: 2019-09-12 22:20:59.382 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'springfox.documentation.swagger.configuration.SwaggerCommonConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.384
+Unexpected IOException with stream: 2019-09-12 22:20:59.384 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'springfox.documentation.swagger2.configuration.Swagger2DocumentationConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.385
+Unexpected IOException with stream: 2019-09-12 22:20:59.384 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method springfox.documentation.swagger2.configuration.Swagger2DocumentationConfiguration.swagger2Module()
+
+
+# Created on 2019-09-12T22:20:59.385
+Unexpected IOException with stream: 2019-09-12 22:20:59.385 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method springfox.documentation.swagger2.configuration.Swagger2DocumentationConfiguration.swagger2ControllerMapping()
+
+
+# Created on 2019-09-12T22:20:59.386
+Unexpected IOException with stream: 2019-09-12 22:20:59.386 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method com.service.highspeedtrain.swagger.SwaggerConfig.api()
+
+
+# Created on 2019-09-12T22:20:59.387
+Unexpected IOException with stream: 2019-09-12 22:20:59.387 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method com.service.highspeedtrain.HighspeedtrainApplication.localeResolver()
+
+
+# Created on 2019-09-12T22:20:59.389
+Unexpected IOException with stream: 2019-09-12 22:20:59.389 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'spring.messages.basename' in any property source
+
+
+# Created on 2019-09-12T22:20:59.390
+Unexpected IOException with stream: 2019-09-12 22:20:59.389 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.393
+Unexpected IOException with stream: 2019-09-12 22:20:59.393 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.394
+Unexpected IOException with stream: 2019-09-12 22:20:59.393 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Creating instance of bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.402
+Unexpected IOException with stream: 2019-09-12 22:20:59.401 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Eagerly caching bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry' to allow for resolving potential circular references
+
+
+# Created on 2019-09-12T22:20:59.403
+Unexpected IOException with stream: 2019-09-12 22:20:59.402 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Finished creating instance of bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.418
+Unexpected IOException with stream: 2019-09-12 22:20:59.417 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.419
+Unexpected IOException with stream: 2019-09-12 22:20:59.418 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.context.MessageSourceAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.419
+Unexpected IOException with stream: 2019-09-12 22:20:59.419 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.context.MessageSourceAutoConfiguration.messageSourceProperties()
+
+
+# Created on 2019-09-12T22:20:59.420
+Unexpected IOException with stream: 2019-09-12 22:20:59.420 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.context.MessageSourceAutoConfiguration.messageSource()
+
+
+# Created on 2019-09-12T22:20:59.424
+Unexpected IOException with stream: 2019-09-12 22:20:59.424 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.context.PropertyPlaceholderAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.428
+Unexpected IOException with stream: 2019-09-12 22:20:59.428 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.430
+Unexpected IOException with stream: 2019-09-12 22:20:59.430 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.431
+Unexpected IOException with stream: 2019-09-12 22:20:59.431 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.context.PropertyPlaceholderAutoConfiguration.propertySourcesPlaceholderConfigurer()
+
+
+# Created on 2019-09-12T22:20:59.432
+Unexpected IOException with stream: 2019-09-12 22:20:59.431 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.433
+Unexpected IOException with stream: 2019-09-12 22:20:59.433 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.434
+Unexpected IOException with stream: 2019-09-12 22:20:59.434 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$Jackson2ObjectMapperBuilderCustomizerConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.435
+Unexpected IOException with stream: 2019-09-12 22:20:59.435 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$Jackson2ObjectMapperBuilderCustomizerConfiguration.standardJacksonObjectMapperBuilderCustomizer()
+
+
+# Created on 2019-09-12T22:20:59.437
+Unexpected IOException with stream: 2019-09-12 22:20:59.437 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.438
+Unexpected IOException with stream: 2019-09-12 22:20:59.438 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$JacksonObjectMapperBuilderConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.439
+Unexpected IOException with stream: 2019-09-12 22:20:59.439 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.442
+Unexpected IOException with stream: 2019-09-12 22:20:59.442 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.443
+Unexpected IOException with stream: 2019-09-12 22:20:59.443 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$JacksonObjectMapperBuilderConfiguration.jacksonObjectMapperBuilder()
+
+
+# Created on 2019-09-12T22:20:59.444
+Unexpected IOException with stream: 2019-09-12 22:20:59.444 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.445
+Unexpected IOException with stream: 2019-09-12 22:20:59.445 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$ParameterNamesModuleConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.445
+Unexpected IOException with stream: 2019-09-12 22:20:59.445 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.447
+Unexpected IOException with stream: 2019-09-12 22:20:59.446 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.447
+Unexpected IOException with stream: 2019-09-12 22:20:59.447 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$ParameterNamesModuleConfiguration.parameterNamesModule()
+
+
+# Created on 2019-09-12T22:20:59.448
+Unexpected IOException with stream: 2019-09-12 22:20:59.448 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.449
+Unexpected IOException with stream: 2019-09-12 22:20:59.449 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$JacksonObjectMapperConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.450
+Unexpected IOException with stream: 2019-09-12 22:20:59.449 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.451
+Unexpected IOException with stream: 2019-09-12 22:20:59.451 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.452
+Unexpected IOException with stream: 2019-09-12 22:20:59.451 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$JacksonObjectMapperConfiguration.jacksonObjectMapper()
+
+
+# Created on 2019-09-12T22:20:59.452
+Unexpected IOException with stream: 2019-09-12 22:20:59.452 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.453
+Unexpected IOException with stream: 2019-09-12 22:20:59.453 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration.jsonComponentModule()
+
+
+# Created on 2019-09-12T22:20:59.454
+Unexpected IOException with stream: 2019-09-12 22:20:59.453 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.454
+Unexpected IOException with stream: 2019-09-12 22:20:59.454 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.455
+Unexpected IOException with stream: 2019-09-12 22:20:59.455 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.455
+Unexpected IOException with stream: 2019-09-12 22:20:59.455 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.websocket.servlet.WebSocketServletAutoConfiguration$TomcatWebSocketConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.456
+Unexpected IOException with stream: 2019-09-12 22:20:59.456 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.456
+Unexpected IOException with stream: 2019-09-12 22:20:59.456 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.websocket.servlet.WebSocketServletAutoConfiguration$TomcatWebSocketConfiguration.websocketContainerCustomizer()
+
+
+# Created on 2019-09-12T22:20:59.457
+Unexpected IOException with stream: 2019-09-12 22:20:59.457 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.websocket.servlet.WebSocketServletAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.458
+Unexpected IOException with stream: 2019-09-12 22:20:59.458 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.458
+Unexpected IOException with stream: 2019-09-12 22:20:59.458 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.459
+Unexpected IOException with stream: 2019-09-12 22:20:59.459 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.460
+Unexpected IOException with stream: 2019-09-12 22:20:59.460 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.462
+Unexpected IOException with stream: 2019-09-12 22:20:59.462 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.463
+Unexpected IOException with stream: 2019-09-12 22:20:59.463 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.web.servlet.ServletWebServerFactoryConfiguration$EmbeddedTomcat'
+
+
+# Created on 2019-09-12T22:20:59.464
+Unexpected IOException with stream: 2019-09-12 22:20:59.464 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.ServletWebServerFactoryConfiguration$EmbeddedTomcat.tomcatServletWebServerFactory()
+
+
+# Created on 2019-09-12T22:20:59.465
+Unexpected IOException with stream: 2019-09-12 22:20:59.465 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.web.servlet.ServletWebServerFactoryAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.466
+Unexpected IOException with stream: 2019-09-12 22:20:59.466 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.ServletWebServerFactoryAutoConfiguration.servletWebServerFactoryCustomizer()
+
+
+# Created on 2019-09-12T22:20:59.466
+Unexpected IOException with stream: 2019-09-12 22:20:59.466 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.467
+Unexpected IOException with stream: 2019-09-12 22:20:59.467 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.ServletWebServerFactoryAutoConfiguration.tomcatServletWebServerFactoryCustomizer()
+
+
+# Created on 2019-09-12T22:20:59.472
+Unexpected IOException with stream: 2019-09-12 22:20:59.472 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.473
+Unexpected IOException with stream: 2019-09-12 22:20:59.472 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.473
+Unexpected IOException with stream: 2019-09-12 22:20:59.473 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.474
+Unexpected IOException with stream: 2019-09-12 22:20:59.474 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.475
+Unexpected IOException with stream: 2019-09-12 22:20:59.475 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.476
+Unexpected IOException with stream: 2019-09-12 22:20:59.476 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.477
+Unexpected IOException with stream: 2019-09-12 22:20:59.477 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoConfiguration$DispatcherServletConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.477
+Unexpected IOException with stream: 2019-09-12 22:20:59.477 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoConfiguration$DispatcherServletConfiguration.dispatcherServlet()
+
+
+# Created on 2019-09-12T22:20:59.478
+Unexpected IOException with stream: 2019-09-12 22:20:59.478 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.479
+Unexpected IOException with stream: 2019-09-12 22:20:59.479 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.480
+Unexpected IOException with stream: 2019-09-12 22:20:59.480 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoConfiguration$DispatcherServletRegistrationConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.480
+Unexpected IOException with stream: 2019-09-12 22:20:59.480 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.482
+Unexpected IOException with stream: 2019-09-12 22:20:59.481 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.482
+Unexpected IOException with stream: 2019-09-12 22:20:59.482 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoConfiguration$DispatcherServletRegistrationConfiguration.dispatcherServletRegistration()
+
+
+# Created on 2019-09-12T22:20:59.483
+Unexpected IOException with stream: 2019-09-12 22:20:59.483 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.484
+Unexpected IOException with stream: 2019-09-12 22:20:59.483 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.484
+Unexpected IOException with stream: 2019-09-12 22:20:59.484 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.485
+Unexpected IOException with stream: 2019-09-12 22:20:59.485 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.http.codec.CodecsAutoConfiguration$JacksonCodecConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.486
+Unexpected IOException with stream: 2019-09-12 22:20:59.486 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.490
+Unexpected IOException with stream: 2019-09-12 22:20:59.490 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.490
+Unexpected IOException with stream: 2019-09-12 22:20:59.490 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.http.codec.CodecsAutoConfiguration$JacksonCodecConfiguration.jacksonCodecCustomizer()
+
+
+# Created on 2019-09-12T22:20:59.491
+Unexpected IOException with stream: 2019-09-12 22:20:59.491 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.http.codec.CodecsAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.492
+Unexpected IOException with stream: 2019-09-12 22:20:59.491 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.492
+Unexpected IOException with stream: 2019-09-12 22:20:59.492 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.493
+Unexpected IOException with stream: 2019-09-12 22:20:59.492 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.validation.ValidationAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.493
+Unexpected IOException with stream: 2019-09-12 22:20:59.493 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.495
+Unexpected IOException with stream: 2019-09-12 22:20:59.495 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.495
+Unexpected IOException with stream: 2019-09-12 22:20:59.495 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.validation.ValidationAutoConfiguration.defaultValidator()
+
+
+# Created on 2019-09-12T22:20:59.496
+Unexpected IOException with stream: 2019-09-12 22:20:59.496 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.498
+Unexpected IOException with stream: 2019-09-12 22:20:59.498 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.499
+Unexpected IOException with stream: 2019-09-12 22:20:59.498 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.validation.ValidationAutoConfiguration.methodValidationPostProcessor()
+
+
+# Created on 2019-09-12T22:20:59.500
+Unexpected IOException with stream: 2019-09-12 22:20:59.499 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.500
+Unexpected IOException with stream: 2019-09-12 22:20:59.500 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.503
+Unexpected IOException with stream: 2019-09-12 22:20:59.502 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.transaction.jta.JtaAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.503
+Unexpected IOException with stream: 2019-09-12 22:20:59.503 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.504
+Unexpected IOException with stream: 2019-09-12 22:20:59.504 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.505
+Unexpected IOException with stream: 2019-09-12 22:20:59.505 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.506
+Unexpected IOException with stream: 2019-09-12 22:20:59.505 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.506
+Unexpected IOException with stream: 2019-09-12 22:20:59.506 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.507
+Unexpected IOException with stream: 2019-09-12 22:20:59.507 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.507
+Unexpected IOException with stream: 2019-09-12 22:20:59.507 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.508
+Unexpected IOException with stream: 2019-09-12 22:20:59.508 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.508
+Unexpected IOException with stream: 2019-09-12 22:20:59.508 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.509
+Unexpected IOException with stream: 2019-09-12 22:20:59.509 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration$Hikari'
+
+
+# Created on 2019-09-12T22:20:59.509
+Unexpected IOException with stream: 2019-09-12 22:20:59.509 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration$Hikari.dataSource()
+
+
+# Created on 2019-09-12T22:20:59.511
+Unexpected IOException with stream: 2019-09-12 22:20:59.511 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration$PooledDataSourceConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.511
+Unexpected IOException with stream: 2019-09-12 22:20:59.511 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.512
+Unexpected IOException with stream: 2019-09-12 22:20:59.512 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.jdbc.metadata.DataSourcePoolMetadataProvidersConfiguration$HikariPoolDataSourceMetadataProviderConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.512
+Unexpected IOException with stream: 2019-09-12 22:20:59.512 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.jdbc.metadata.DataSourcePoolMetadataProvidersConfiguration$HikariPoolDataSourceMetadataProviderConfiguration.hikariPoolDataSourceMetadataProvider()
+
+
+# Created on 2019-09-12T22:20:59.513
+Unexpected IOException with stream: 2019-09-12 22:20:59.513 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.jdbc.metadata.DataSourcePoolMetadataProvidersConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.513
+Unexpected IOException with stream: 2019-09-12 22:20:59.513 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerInvoker'
+
+
+# Created on 2019-09-12T22:20:59.514
+Unexpected IOException with stream: 2019-09-12 22:20:59.514 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.jdbc.DataSourceInitializationConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.515
+Unexpected IOException with stream: 2019-09-12 22:20:59.515 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.516
+Unexpected IOException with stream: 2019-09-12 22:20:59.516 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.517
+Unexpected IOException with stream: 2019-09-12 22:20:59.517 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.519
+Unexpected IOException with stream: 2019-09-12 22:20:59.519 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.519
+Unexpected IOException with stream: 2019-09-12 22:20:59.519 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.jdbc.JdbcTemplateAutoConfiguration$JdbcTemplateConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.520
+Unexpected IOException with stream: 2019-09-12 22:20:59.520 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.521
+Unexpected IOException with stream: 2019-09-12 22:20:59.521 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.521
+Unexpected IOException with stream: 2019-09-12 22:20:59.521 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.jdbc.JdbcTemplateAutoConfiguration$JdbcTemplateConfiguration.jdbcTemplate()
+
+
+# Created on 2019-09-12T22:20:59.522
+Unexpected IOException with stream: 2019-09-12 22:20:59.522 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.jdbc.JdbcTemplateAutoConfiguration$NamedParameterJdbcTemplateConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.523
+Unexpected IOException with stream: 2019-09-12 22:20:59.522 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.524
+Unexpected IOException with stream: 2019-09-12 22:20:59.524 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.524
+Unexpected IOException with stream: 2019-09-12 22:20:59.524 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.525
+Unexpected IOException with stream: 2019-09-12 22:20:59.525 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.525
+Unexpected IOException with stream: 2019-09-12 22:20:59.525 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.526
+Unexpected IOException with stream: 2019-09-12 22:20:59.526 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.526
+Unexpected IOException with stream: 2019-09-12 22:20:59.526 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.jdbc.JdbcTemplateAutoConfiguration$NamedParameterJdbcTemplateConfiguration.namedParameterJdbcTemplate()
+
+
+# Created on 2019-09-12T22:20:59.527
+Unexpected IOException with stream: 2019-09-12 22:20:59.527 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.jdbc.JdbcTemplateAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.528
+Unexpected IOException with stream: 2019-09-12 22:20:59.528 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.529
+Unexpected IOException with stream: 2019-09-12 22:20:59.529 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.529
+Unexpected IOException with stream: 2019-09-12 22:20:59.529 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.530
+Unexpected IOException with stream: 2019-09-12 22:20:59.530 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'spring.template.provider.cache' in any property source
+
+
+# Created on 2019-09-12T22:20:59.532
+Unexpected IOException with stream: 2019-09-12 22:20:59.532 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.532
+Unexpected IOException with stream: 2019-09-12 22:20:59.532 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration$WhitelabelErrorViewConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.533
+Unexpected IOException with stream: 2019-09-12 22:20:59.533 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.534
+Unexpected IOException with stream: 2019-09-12 22:20:59.533 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration$WhitelabelErrorViewConfiguration.error()
+
+
+# Created on 2019-09-12T22:20:59.535
+Unexpected IOException with stream: 2019-09-12 22:20:59.535 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.537
+Unexpected IOException with stream: 2019-09-12 22:20:59.537 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.537
+Unexpected IOException with stream: 2019-09-12 22:20:59.537 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration$WhitelabelErrorViewConfiguration.beanNameViewResolver()
+
+
+# Created on 2019-09-12T22:20:59.538
+Unexpected IOException with stream: 2019-09-12 22:20:59.538 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration$DefaultErrorViewResolverConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.538
+Unexpected IOException with stream: 2019-09-12 22:20:59.538 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.539
+Unexpected IOException with stream: 2019-09-12 22:20:59.539 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.540
+Unexpected IOException with stream: 2019-09-12 22:20:59.540 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.540
+Unexpected IOException with stream: 2019-09-12 22:20:59.540 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.541
+Unexpected IOException with stream: 2019-09-12 22:20:59.541 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.542
+Unexpected IOException with stream: 2019-09-12 22:20:59.541 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.542
+Unexpected IOException with stream: 2019-09-12 22:20:59.542 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration$DefaultErrorViewResolverConfiguration.conventionErrorViewResolver()
+
+
+# Created on 2019-09-12T22:20:59.543
+Unexpected IOException with stream: 2019-09-12 22:20:59.543 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.544
+Unexpected IOException with stream: 2019-09-12 22:20:59.544 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.545
+Unexpected IOException with stream: 2019-09-12 22:20:59.545 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.545
+Unexpected IOException with stream: 2019-09-12 22:20:59.545 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration.errorAttributes()
+
+
+# Created on 2019-09-12T22:20:59.546
+Unexpected IOException with stream: 2019-09-12 22:20:59.546 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.548
+Unexpected IOException with stream: 2019-09-12 22:20:59.548 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.549
+Unexpected IOException with stream: 2019-09-12 22:20:59.549 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration.basicErrorController()
+
+
+# Created on 2019-09-12T22:20:59.549
+Unexpected IOException with stream: 2019-09-12 22:20:59.549 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration.errorPageCustomizer()
+
+
+# Created on 2019-09-12T22:20:59.550
+Unexpected IOException with stream: 2019-09-12 22:20:59.550 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration.preserveErrorControllerTargetClassPostProcessor()
+
+
+# Created on 2019-09-12T22:20:59.551
+Unexpected IOException with stream: 2019-09-12 22:20:59.550 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.551
+Unexpected IOException with stream: 2019-09-12 22:20:59.551 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.552
+Unexpected IOException with stream: 2019-09-12 22:20:59.552 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.553
+Unexpected IOException with stream: 2019-09-12 22:20:59.552 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.553
+Unexpected IOException with stream: 2019-09-12 22:20:59.553 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$EnableWebMvcConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.554
+Unexpected IOException with stream: 2019-09-12 22:20:59.554 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$EnableWebMvcConfiguration.requestMappingHandlerAdapter()
+
+
+# Created on 2019-09-12T22:20:59.554
+Unexpected IOException with stream: 2019-09-12 22:20:59.554 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$EnableWebMvcConfiguration.requestMappingHandlerMapping()
+
+
+# Created on 2019-09-12T22:20:59.555
+Unexpected IOException with stream: 2019-09-12 22:20:59.555 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$EnableWebMvcConfiguration.mvcConversionService()
+
+
+# Created on 2019-09-12T22:20:59.555
+Unexpected IOException with stream: 2019-09-12 22:20:59.555 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$EnableWebMvcConfiguration.mvcValidator()
+
+
+# Created on 2019-09-12T22:20:59.556
+Unexpected IOException with stream: 2019-09-12 22:20:59.556 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$EnableWebMvcConfiguration.mvcContentNegotiationManager()
+
+
+# Created on 2019-09-12T22:20:59.556
+Unexpected IOException with stream: 2019-09-12 22:20:59.556 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$EnableWebMvcConfiguration.mvcPathMatcher()
+
+
+# Created on 2019-09-12T22:20:59.557
+Unexpected IOException with stream: 2019-09-12 22:20:59.557 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$EnableWebMvcConfiguration.mvcUrlPathHelper()
+
+
+# Created on 2019-09-12T22:20:59.558
+Unexpected IOException with stream: 2019-09-12 22:20:59.557 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$EnableWebMvcConfiguration.viewControllerHandlerMapping()
+
+
+# Created on 2019-09-12T22:20:59.558
+Unexpected IOException with stream: 2019-09-12 22:20:59.558 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$EnableWebMvcConfiguration.beanNameHandlerMapping()
+
+
+# Created on 2019-09-12T22:20:59.558
+Unexpected IOException with stream: 2019-09-12 22:20:59.558 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$EnableWebMvcConfiguration.resourceHandlerMapping()
+
+
+# Created on 2019-09-12T22:20:59.559
+Unexpected IOException with stream: 2019-09-12 22:20:59.559 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$EnableWebMvcConfiguration.mvcResourceUrlProvider()
+
+
+# Created on 2019-09-12T22:20:59.560
+Unexpected IOException with stream: 2019-09-12 22:20:59.559 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$EnableWebMvcConfiguration.defaultServletHandlerMapping()
+
+
+# Created on 2019-09-12T22:20:59.560
+Unexpected IOException with stream: 2019-09-12 22:20:59.560 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$EnableWebMvcConfiguration.mvcUriComponentsContributor()
+
+
+# Created on 2019-09-12T22:20:59.561
+Unexpected IOException with stream: 2019-09-12 22:20:59.561 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$EnableWebMvcConfiguration.httpRequestHandlerAdapter()
+
+
+# Created on 2019-09-12T22:20:59.562
+Unexpected IOException with stream: 2019-09-12 22:20:59.561 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$EnableWebMvcConfiguration.simpleControllerHandlerAdapter()
+
+
+# Created on 2019-09-12T22:20:59.562
+Unexpected IOException with stream: 2019-09-12 22:20:59.562 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$EnableWebMvcConfiguration.handlerExceptionResolver()
+
+
+# Created on 2019-09-12T22:20:59.563
+Unexpected IOException with stream: 2019-09-12 22:20:59.563 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$EnableWebMvcConfiguration.mvcViewResolver()
+
+
+# Created on 2019-09-12T22:20:59.564
+Unexpected IOException with stream: 2019-09-12 22:20:59.563 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$EnableWebMvcConfiguration.mvcHandlerMappingIntrospector()
+
+
+# Created on 2019-09-12T22:20:59.564
+Unexpected IOException with stream: 2019-09-12 22:20:59.564 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.565
+Unexpected IOException with stream: 2019-09-12 22:20:59.565 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$WebMvcAutoConfigurationAdapter$FaviconConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.565
+Unexpected IOException with stream: 2019-09-12 22:20:59.565 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$WebMvcAutoConfigurationAdapter$FaviconConfiguration.faviconHandlerMapping()
+
+
+# Created on 2019-09-12T22:20:59.566
+Unexpected IOException with stream: 2019-09-12 22:20:59.566 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$WebMvcAutoConfigurationAdapter$FaviconConfiguration.faviconRequestHandler()
+
+
+# Created on 2019-09-12T22:20:59.567
+Unexpected IOException with stream: 2019-09-12 22:20:59.567 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$WebMvcAutoConfigurationAdapter'
+
+
+# Created on 2019-09-12T22:20:59.569
+Unexpected IOException with stream: 2019-09-12 22:20:59.568 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.587
+Unexpected IOException with stream: 2019-09-12 22:20:59.587 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.588
+Unexpected IOException with stream: 2019-09-12 22:20:59.587 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$WebMvcAutoConfigurationAdapter.defaultViewResolver()
+
+
+# Created on 2019-09-12T22:20:59.588
+Unexpected IOException with stream: 2019-09-12 22:20:59.588 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.591
+Unexpected IOException with stream: 2019-09-12 22:20:59.591 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.592
+Unexpected IOException with stream: 2019-09-12 22:20:59.592 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.593
+Unexpected IOException with stream: 2019-09-12 22:20:59.592 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.594
+Unexpected IOException with stream: 2019-09-12 22:20:59.593 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.594
+Unexpected IOException with stream: 2019-09-12 22:20:59.594 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.596
+Unexpected IOException with stream: 2019-09-12 22:20:59.595 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.597
+Unexpected IOException with stream: 2019-09-12 22:20:59.597 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.598
+Unexpected IOException with stream: 2019-09-12 22:20:59.598 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.599
+Unexpected IOException with stream: 2019-09-12 22:20:59.598 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$WebMvcAutoConfigurationAdapter.viewResolver()
+
+
+# Created on 2019-09-12T22:20:59.600
+Unexpected IOException with stream: 2019-09-12 22:20:59.599 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.600
+Unexpected IOException with stream: 2019-09-12 22:20:59.600 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$WebMvcAutoConfigurationAdapter.welcomePageHandlerMapping()
+
+
+# Created on 2019-09-12T22:20:59.601
+Unexpected IOException with stream: 2019-09-12 22:20:59.601 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.602
+Unexpected IOException with stream: 2019-09-12 22:20:59.602 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.603
+Unexpected IOException with stream: 2019-09-12 22:20:59.603 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.604
+Unexpected IOException with stream: 2019-09-12 22:20:59.603 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$WebMvcAutoConfigurationAdapter.requestContextFilter()
+
+
+# Created on 2019-09-12T22:20:59.604
+Unexpected IOException with stream: 2019-09-12 22:20:59.604 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.605
+Unexpected IOException with stream: 2019-09-12 22:20:59.605 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.606
+Unexpected IOException with stream: 2019-09-12 22:20:59.606 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.607
+Unexpected IOException with stream: 2019-09-12 22:20:59.607 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration.hiddenHttpMethodFilter()
+
+
+# Created on 2019-09-12T22:20:59.608
+Unexpected IOException with stream: 2019-09-12 22:20:59.607 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.609
+Unexpected IOException with stream: 2019-09-12 22:20:59.609 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.610
+Unexpected IOException with stream: 2019-09-12 22:20:59.610 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.611
+Unexpected IOException with stream: 2019-09-12 22:20:59.611 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration.httpPutFormContentFilter()
+
+
+# Created on 2019-09-12T22:20:59.612
+Unexpected IOException with stream: 2019-09-12 22:20:59.612 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.613
+Unexpected IOException with stream: 2019-09-12 22:20:59.612 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.613
+Unexpected IOException with stream: 2019-09-12 22:20:59.613 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.audit.AuditAutoConfiguration$AuditEventRepositoryConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.614
+Unexpected IOException with stream: 2019-09-12 22:20:59.614 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.audit.AuditAutoConfiguration$AuditEventRepositoryConfiguration.auditEventRepository()
+
+
+# Created on 2019-09-12T22:20:59.614
+Unexpected IOException with stream: 2019-09-12 22:20:59.614 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.audit.AuditAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.615
+Unexpected IOException with stream: 2019-09-12 22:20:59.615 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.617
+Unexpected IOException with stream: 2019-09-12 22:20:59.617 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.617
+Unexpected IOException with stream: 2019-09-12 22:20:59.617 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.audit.AuditAutoConfiguration.auditListener()
+
+
+# Created on 2019-09-12T22:20:59.618
+Unexpected IOException with stream: 2019-09-12 22:20:59.618 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.619
+Unexpected IOException with stream: 2019-09-12 22:20:59.619 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.620
+Unexpected IOException with stream: 2019-09-12 22:20:59.619 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.audit.AuditEventsEndpointAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.621
+Unexpected IOException with stream: 2019-09-12 22:20:59.621 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.624
+Unexpected IOException with stream: 2019-09-12 22:20:59.623 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.624
+Unexpected IOException with stream: 2019-09-12 22:20:59.624 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.625
+Unexpected IOException with stream: 2019-09-12 22:20:59.625 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.626
+Unexpected IOException with stream: 2019-09-12 22:20:59.625 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.626
+Unexpected IOException with stream: 2019-09-12 22:20:59.626 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.628
+Unexpected IOException with stream: 2019-09-12 22:20:59.628 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'management.endpoint.auditevents.enabled' in any property source
+
+
+# Created on 2019-09-12T22:20:59.628
+Unexpected IOException with stream: 2019-09-12 22:20:59.628 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'management.endpoints.enabled-by-default' in any property source
+
+
+# Created on 2019-09-12T22:20:59.629
+Unexpected IOException with stream: 2019-09-12 22:20:59.629 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.630
+Unexpected IOException with stream: 2019-09-12 22:20:59.629 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.audit.AuditEventsEndpointAutoConfiguration.auditEventsEndpoint()
+
+
+# Created on 2019-09-12T22:20:59.630
+Unexpected IOException with stream: 2019-09-12 22:20:59.630 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.beans.BeansEndpointAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.631
+Unexpected IOException with stream: 2019-09-12 22:20:59.631 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.632
+Unexpected IOException with stream: 2019-09-12 22:20:59.632 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.633
+Unexpected IOException with stream: 2019-09-12 22:20:59.633 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'management.endpoint.beans.enabled' in any property source
+
+
+# Created on 2019-09-12T22:20:59.634
+Unexpected IOException with stream: 2019-09-12 22:20:59.634 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.635
+Unexpected IOException with stream: 2019-09-12 22:20:59.634 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.beans.BeansEndpointAutoConfiguration.beansEndpoint()
+
+
+# Created on 2019-09-12T22:20:59.636
+Unexpected IOException with stream: 2019-09-12 22:20:59.636 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'management.health.defaults.enabled' in any property source
+
+
+# Created on 2019-09-12T22:20:59.637
+Unexpected IOException with stream: 2019-09-12 22:20:59.637 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.638
+Unexpected IOException with stream: 2019-09-12 22:20:59.638 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.system.DiskSpaceHealthIndicatorAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.639
+Unexpected IOException with stream: 2019-09-12 22:20:59.638 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.640
+Unexpected IOException with stream: 2019-09-12 22:20:59.639 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.system.DiskSpaceHealthIndicatorAutoConfiguration.diskSpaceHealthIndicator()
+
+
+# Created on 2019-09-12T22:20:59.640
+Unexpected IOException with stream: 2019-09-12 22:20:59.640 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.system.DiskSpaceHealthIndicatorAutoConfiguration.diskSpaceHealthIndicatorProperties()
+
+
+# Created on 2019-09-12T22:20:59.641
+Unexpected IOException with stream: 2019-09-12 22:20:59.641 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'management.health.defaults.enabled' in any property source
+
+
+# Created on 2019-09-12T22:20:59.642
+Unexpected IOException with stream: 2019-09-12 22:20:59.641 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.644
+Unexpected IOException with stream: 2019-09-12 22:20:59.644 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.mongo.MongoHealthIndicatorAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.645
+Unexpected IOException with stream: 2019-09-12 22:20:59.645 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'management.health.defaults.enabled' in any property source
+
+
+# Created on 2019-09-12T22:20:59.646
+Unexpected IOException with stream: 2019-09-12 22:20:59.646 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.647
+Unexpected IOException with stream: 2019-09-12 22:20:59.647 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.redis.RedisHealthIndicatorAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.648
+Unexpected IOException with stream: 2019-09-12 22:20:59.648 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.649
+Unexpected IOException with stream: 2019-09-12 22:20:59.649 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.652
+Unexpected IOException with stream: 2019-09-12 22:20:59.651 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.653
+Unexpected IOException with stream: 2019-09-12 22:20:59.652 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'management.health.defaults.enabled' in any property source
+
+
+# Created on 2019-09-12T22:20:59.653
+Unexpected IOException with stream: 2019-09-12 22:20:59.653 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.654
+Unexpected IOException with stream: 2019-09-12 22:20:59.654 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.jdbc.DataSourceHealthIndicatorAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.655
+Unexpected IOException with stream: 2019-09-12 22:20:59.655 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.656
+Unexpected IOException with stream: 2019-09-12 22:20:59.656 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.jdbc.DataSourceHealthIndicatorAutoConfiguration.dbHealthIndicator()
+
+
+# Created on 2019-09-12T22:20:59.657
+Unexpected IOException with stream: 2019-09-12 22:20:59.657 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'management.health.defaults.enabled' in any property source
+
+
+# Created on 2019-09-12T22:20:59.658
+Unexpected IOException with stream: 2019-09-12 22:20:59.657 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.659
+Unexpected IOException with stream: 2019-09-12 22:20:59.659 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.elasticsearch.ElasticsearchHealthIndicatorAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.660
+Unexpected IOException with stream: 2019-09-12 22:20:59.660 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.health.HealthIndicatorAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.661
+Unexpected IOException with stream: 2019-09-12 22:20:59.660 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.663
+Unexpected IOException with stream: 2019-09-12 22:20:59.663 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.664
+Unexpected IOException with stream: 2019-09-12 22:20:59.664 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.665
+Unexpected IOException with stream: 2019-09-12 22:20:59.665 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.666
+Unexpected IOException with stream: 2019-09-12 22:20:59.665 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.666
+Unexpected IOException with stream: 2019-09-12 22:20:59.666 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.health.HealthIndicatorAutoConfiguration.healthAggregator()
+
+
+# Created on 2019-09-12T22:20:59.667
+Unexpected IOException with stream: 2019-09-12 22:20:59.667 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.health.HealthEndpointConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.668
+Unexpected IOException with stream: 2019-09-12 22:20:59.668 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.670
+Unexpected IOException with stream: 2019-09-12 22:20:59.670 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.671
+Unexpected IOException with stream: 2019-09-12 22:20:59.671 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'management.endpoint.health.enabled' in any property source
+
+
+# Created on 2019-09-12T22:20:59.672
+Unexpected IOException with stream: 2019-09-12 22:20:59.672 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.673
+Unexpected IOException with stream: 2019-09-12 22:20:59.673 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.health.HealthEndpointConfiguration.healthEndpoint()
+
+
+# Created on 2019-09-12T22:20:59.674
+Unexpected IOException with stream: 2019-09-12 22:20:59.674 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.674
+Unexpected IOException with stream: 2019-09-12 22:20:59.674 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.health.HealthEndpointWebExtensionConfiguration$ServletWebHealthConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.675
+Unexpected IOException with stream: 2019-09-12 22:20:59.675 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.677
+Unexpected IOException with stream: 2019-09-12 22:20:59.677 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.678
+Unexpected IOException with stream: 2019-09-12 22:20:59.677 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.682
+Unexpected IOException with stream: 2019-09-12 22:20:59.682 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'management.endpoint.health.enabled' in any property source
+
+
+# Created on 2019-09-12T22:20:59.682
+Unexpected IOException with stream: 2019-09-12 22:20:59.682 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.683
+Unexpected IOException with stream: 2019-09-12 22:20:59.683 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.684
+Unexpected IOException with stream: 2019-09-12 22:20:59.684 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.691
+Unexpected IOException with stream: 2019-09-12 22:20:59.691 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.692
+Unexpected IOException with stream: 2019-09-12 22:20:59.691 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.health.HealthEndpointWebExtensionConfiguration$ServletWebHealthConfiguration.healthEndpointWebExtension()
+
+
+# Created on 2019-09-12T22:20:59.692
+Unexpected IOException with stream: 2019-09-12 22:20:59.692 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.health.HealthEndpointWebExtensionConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.694
+Unexpected IOException with stream: 2019-09-12 22:20:59.693 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.695
+Unexpected IOException with stream: 2019-09-12 22:20:59.695 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.696
+Unexpected IOException with stream: 2019-09-12 22:20:59.696 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.health.HealthEndpointWebExtensionConfiguration.createHealthStatusHttpMapper()
+
+
+# Created on 2019-09-12T22:20:59.697
+Unexpected IOException with stream: 2019-09-12 22:20:59.697 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.698
+Unexpected IOException with stream: 2019-09-12 22:20:59.698 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.698
+Unexpected IOException with stream: 2019-09-12 22:20:59.698 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.health.HealthEndpointWebExtensionConfiguration.healthWebEndpointResponseMapper()
+
+
+# Created on 2019-09-12T22:20:59.699
+Unexpected IOException with stream: 2019-09-12 22:20:59.699 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.health.HealthEndpointAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.700
+Unexpected IOException with stream: 2019-09-12 22:20:59.700 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.700
+Unexpected IOException with stream: 2019-09-12 22:20:59.700 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.701
+Unexpected IOException with stream: 2019-09-12 22:20:59.701 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.web.servlet.ServletManagementContextAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.701
+Unexpected IOException with stream: 2019-09-12 22:20:59.701 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.web.servlet.ServletManagementContextAutoConfiguration.servletWebChildContextFactory()
+
+
+# Created on 2019-09-12T22:20:59.702
+Unexpected IOException with stream: 2019-09-12 22:20:59.702 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.web.servlet.ServletManagementContextAutoConfiguration.managementServletContext()
+
+
+# Created on 2019-09-12T22:20:59.702
+Unexpected IOException with stream: 2019-09-12 22:20:59.702 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.condition.ConditionsReportEndpointAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.703
+Unexpected IOException with stream: 2019-09-12 22:20:59.703 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.707
+Unexpected IOException with stream: 2019-09-12 22:20:59.707 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.708
+Unexpected IOException with stream: 2019-09-12 22:20:59.708 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'management.endpoint.conditions.enabled' in any property source
+
+
+# Created on 2019-09-12T22:20:59.709
+Unexpected IOException with stream: 2019-09-12 22:20:59.709 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.710
+Unexpected IOException with stream: 2019-09-12 22:20:59.710 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.condition.ConditionsReportEndpointAutoConfiguration.conditionsReportEndpoint()
+
+
+# Created on 2019-09-12T22:20:59.711
+Unexpected IOException with stream: 2019-09-12 22:20:59.711 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.context.ShutdownEndpointAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.713
+Unexpected IOException with stream: 2019-09-12 22:20:59.712 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.714
+Unexpected IOException with stream: 2019-09-12 22:20:59.713 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.714
+Unexpected IOException with stream: 2019-09-12 22:20:59.714 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'management.endpoint.shutdown.enabled' in any property source
+
+
+# Created on 2019-09-12T22:20:59.715
+Unexpected IOException with stream: 2019-09-12 22:20:59.715 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.716
+Unexpected IOException with stream: 2019-09-12 22:20:59.716 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.context.properties.ConfigurationPropertiesReportEndpointAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.717
+Unexpected IOException with stream: 2019-09-12 22:20:59.717 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.718
+Unexpected IOException with stream: 2019-09-12 22:20:59.718 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.719
+Unexpected IOException with stream: 2019-09-12 22:20:59.718 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'management.endpoint.configprops.enabled' in any property source
+
+
+# Created on 2019-09-12T22:20:59.719
+Unexpected IOException with stream: 2019-09-12 22:20:59.719 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.720
+Unexpected IOException with stream: 2019-09-12 22:20:59.720 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.context.properties.ConfigurationPropertiesReportEndpointAutoConfiguration.configurationPropertiesReportEndpoint()
+
+
+# Created on 2019-09-12T22:20:59.721
+Unexpected IOException with stream: 2019-09-12 22:20:59.721 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.endpoint.EndpointAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.722
+Unexpected IOException with stream: 2019-09-12 22:20:59.721 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.723
+Unexpected IOException with stream: 2019-09-12 22:20:59.723 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.723
+Unexpected IOException with stream: 2019-09-12 22:20:59.723 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.endpoint.EndpointAutoConfiguration.endpointOperationParameterMapper()
+
+
+# Created on 2019-09-12T22:20:59.724
+Unexpected IOException with stream: 2019-09-12 22:20:59.724 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.725
+Unexpected IOException with stream: 2019-09-12 22:20:59.725 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.726
+Unexpected IOException with stream: 2019-09-12 22:20:59.726 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.endpoint.EndpointAutoConfiguration.endpointCachingOperationInvokerAdvisor()
+
+
+# Created on 2019-09-12T22:20:59.727
+Unexpected IOException with stream: 2019-09-12 22:20:59.727 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.endpoint.jmx.JmxEndpointAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.728
+Unexpected IOException with stream: 2019-09-12 22:20:59.728 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.729
+Unexpected IOException with stream: 2019-09-12 22:20:59.729 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.730
+Unexpected IOException with stream: 2019-09-12 22:20:59.729 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.endpoint.jmx.JmxEndpointAutoConfiguration.jmxAnnotationEndpointDiscoverer()
+
+
+# Created on 2019-09-12T22:20:59.730
+Unexpected IOException with stream: 2019-09-12 22:20:59.730 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.733
+Unexpected IOException with stream: 2019-09-12 22:20:59.733 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.734
+Unexpected IOException with stream: 2019-09-12 22:20:59.734 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.endpoint.jmx.JmxEndpointAutoConfiguration.jmxIncludeExcludePropertyEndpointFilter()
+
+
+# Created on 2019-09-12T22:20:59.736
+Unexpected IOException with stream: 2019-09-12 22:20:59.735 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.737
+Unexpected IOException with stream: 2019-09-12 22:20:59.737 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.738
+Unexpected IOException with stream: 2019-09-12 22:20:59.737 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.endpoint.web.WebEndpointAutoConfiguration$WebEndpointServletAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.739
+Unexpected IOException with stream: 2019-09-12 22:20:59.738 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.741
+Unexpected IOException with stream: 2019-09-12 22:20:59.740 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.741
+Unexpected IOException with stream: 2019-09-12 22:20:59.741 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.endpoint.web.WebEndpointAutoConfiguration$WebEndpointServletAutoConfiguration.servletEndpointDiscoverer()
+
+
+# Created on 2019-09-12T22:20:59.742
+Unexpected IOException with stream: 2019-09-12 22:20:59.742 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.endpoint.web.WebEndpointAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.743
+Unexpected IOException with stream: 2019-09-12 22:20:59.743 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.745
+Unexpected IOException with stream: 2019-09-12 22:20:59.744 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.745
+Unexpected IOException with stream: 2019-09-12 22:20:59.745 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.endpoint.web.WebEndpointAutoConfiguration.webEndpointPathMapper()
+
+
+# Created on 2019-09-12T22:20:59.746
+Unexpected IOException with stream: 2019-09-12 22:20:59.746 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.748
+Unexpected IOException with stream: 2019-09-12 22:20:59.748 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.749
+Unexpected IOException with stream: 2019-09-12 22:20:59.749 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.endpoint.web.WebEndpointAutoConfiguration.endpointMediaTypes()
+
+
+# Created on 2019-09-12T22:20:59.750
+Unexpected IOException with stream: 2019-09-12 22:20:59.750 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.750
+Unexpected IOException with stream: 2019-09-12 22:20:59.750 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.751
+Unexpected IOException with stream: 2019-09-12 22:20:59.751 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.endpoint.web.WebEndpointAutoConfiguration.webEndpointDiscoverer()
+
+
+# Created on 2019-09-12T22:20:59.752
+Unexpected IOException with stream: 2019-09-12 22:20:59.752 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.753
+Unexpected IOException with stream: 2019-09-12 22:20:59.753 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.753
+Unexpected IOException with stream: 2019-09-12 22:20:59.753 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.endpoint.web.WebEndpointAutoConfiguration.controllerEndpointDiscoverer()
+
+
+# Created on 2019-09-12T22:20:59.754
+Unexpected IOException with stream: 2019-09-12 22:20:59.754 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.755
+Unexpected IOException with stream: 2019-09-12 22:20:59.755 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.756
+Unexpected IOException with stream: 2019-09-12 22:20:59.756 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.endpoint.web.WebEndpointAutoConfiguration.pathMappedEndpoints()
+
+
+# Created on 2019-09-12T22:20:59.757
+Unexpected IOException with stream: 2019-09-12 22:20:59.757 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.endpoint.web.WebEndpointAutoConfiguration.webExposeExcludePropertyEndpointFilter()
+
+
+# Created on 2019-09-12T22:20:59.758
+Unexpected IOException with stream: 2019-09-12 22:20:59.757 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.endpoint.web.WebEndpointAutoConfiguration.controllerExposeExcludePropertyEndpointFilter()
+
+
+# Created on 2019-09-12T22:20:59.759
+Unexpected IOException with stream: 2019-09-12 22:20:59.758 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.env.EnvironmentEndpointAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.760
+Unexpected IOException with stream: 2019-09-12 22:20:59.760 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.762
+Unexpected IOException with stream: 2019-09-12 22:20:59.762 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.763
+Unexpected IOException with stream: 2019-09-12 22:20:59.763 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'management.endpoint.env.enabled' in any property source
+
+
+# Created on 2019-09-12T22:20:59.764
+Unexpected IOException with stream: 2019-09-12 22:20:59.763 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.764
+Unexpected IOException with stream: 2019-09-12 22:20:59.764 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.env.EnvironmentEndpointAutoConfiguration.environmentEndpoint()
+
+
+# Created on 2019-09-12T22:20:59.765
+Unexpected IOException with stream: 2019-09-12 22:20:59.764 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.766
+Unexpected IOException with stream: 2019-09-12 22:20:59.766 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.766
+Unexpected IOException with stream: 2019-09-12 22:20:59.766 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.767
+Unexpected IOException with stream: 2019-09-12 22:20:59.767 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'management.endpoint.env.enabled' in any property source
+
+
+# Created on 2019-09-12T22:20:59.768
+Unexpected IOException with stream: 2019-09-12 22:20:59.768 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.769
+Unexpected IOException with stream: 2019-09-12 22:20:59.769 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.769
+Unexpected IOException with stream: 2019-09-12 22:20:59.769 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.770
+Unexpected IOException with stream: 2019-09-12 22:20:59.770 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.771
+Unexpected IOException with stream: 2019-09-12 22:20:59.771 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.env.EnvironmentEndpointAutoConfiguration.environmentWebEndpointExtension()
+
+
+# Created on 2019-09-12T22:20:59.771
+Unexpected IOException with stream: 2019-09-12 22:20:59.771 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.773
+Unexpected IOException with stream: 2019-09-12 22:20:59.773 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.774
+Unexpected IOException with stream: 2019-09-12 22:20:59.773 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.774
+Unexpected IOException with stream: 2019-09-12 22:20:59.774 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.775
+Unexpected IOException with stream: 2019-09-12 22:20:59.775 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.775
+Unexpected IOException with stream: 2019-09-12 22:20:59.775 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.776
+Unexpected IOException with stream: 2019-09-12 22:20:59.776 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.777
+Unexpected IOException with stream: 2019-09-12 22:20:59.777 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.777
+Unexpected IOException with stream: 2019-09-12 22:20:59.777 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.778
+Unexpected IOException with stream: 2019-09-12 22:20:59.778 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.780
+Unexpected IOException with stream: 2019-09-12 22:20:59.780 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.780
+Unexpected IOException with stream: 2019-09-12 22:20:59.780 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.781
+Unexpected IOException with stream: 2019-09-12 22:20:59.781 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.782
+Unexpected IOException with stream: 2019-09-12 22:20:59.781 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.782
+Unexpected IOException with stream: 2019-09-12 22:20:59.782 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration.openEntityManagerInViewInterceptor()
+
+
+# Created on 2019-09-12T22:20:59.783
+Unexpected IOException with stream: 2019-09-12 22:20:59.782 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.783
+Unexpected IOException with stream: 2019-09-12 22:20:59.783 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.784
+Unexpected IOException with stream: 2019-09-12 22:20:59.784 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.786
+Unexpected IOException with stream: 2019-09-12 22:20:59.786 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.787
+Unexpected IOException with stream: 2019-09-12 22:20:59.787 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaConfiguration.transactionManager()
+
+
+# Created on 2019-09-12T22:20:59.788
+Unexpected IOException with stream: 2019-09-12 22:20:59.788 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.790
+Unexpected IOException with stream: 2019-09-12 22:20:59.790 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.791
+Unexpected IOException with stream: 2019-09-12 22:20:59.791 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaConfiguration.jpaVendorAdapter()
+
+
+# Created on 2019-09-12T22:20:59.792
+Unexpected IOException with stream: 2019-09-12 22:20:59.791 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.792
+Unexpected IOException with stream: 2019-09-12 22:20:59.792 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.793
+Unexpected IOException with stream: 2019-09-12 22:20:59.793 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaConfiguration.entityManagerFactoryBuilder()
+
+
+# Created on 2019-09-12T22:20:59.794
+Unexpected IOException with stream: 2019-09-12 22:20:59.794 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.795
+Unexpected IOException with stream: 2019-09-12 22:20:59.795 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.796
+Unexpected IOException with stream: 2019-09-12 22:20:59.795 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.796
+Unexpected IOException with stream: 2019-09-12 22:20:59.796 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaConfiguration.entityManagerFactory()
+
+
+# Created on 2019-09-12T22:20:59.798
+Unexpected IOException with stream: 2019-09-12 22:20:59.797 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.799
+Unexpected IOException with stream: 2019-09-12 22:20:59.798 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.info.ProjectInfoAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.800
+Unexpected IOException with stream: 2019-09-12 22:20:59.799 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'spring.info.git.location' in any property source
+
+
+# Created on 2019-09-12T22:20:59.800
+Unexpected IOException with stream: 2019-09-12 22:20:59.800 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.801
+Unexpected IOException with stream: 2019-09-12 22:20:59.801 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'spring.info.build.location:classpath:META-INF/build-info.properties' in any property source
+
+
+# Created on 2019-09-12T22:20:59.802
+Unexpected IOException with stream: 2019-09-12 22:20:59.802 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'spring.info.build.location' in any property source
+
+
+# Created on 2019-09-12T22:20:59.803
+Unexpected IOException with stream: 2019-09-12 22:20:59.803 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.804
+Unexpected IOException with stream: 2019-09-12 22:20:59.804 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.info.InfoContributorAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.805
+Unexpected IOException with stream: 2019-09-12 22:20:59.805 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'management.info.defaults.enabled' in any property source
+
+
+# Created on 2019-09-12T22:20:59.806
+Unexpected IOException with stream: 2019-09-12 22:20:59.806 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.807
+Unexpected IOException with stream: 2019-09-12 22:20:59.807 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.info.InfoContributorAutoConfiguration.envInfoContributor()
+
+
+# Created on 2019-09-12T22:20:59.807
+Unexpected IOException with stream: 2019-09-12 22:20:59.807 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'management.info.defaults.enabled' in any property source
+
+
+# Created on 2019-09-12T22:20:59.808
+Unexpected IOException with stream: 2019-09-12 22:20:59.808 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.810
+Unexpected IOException with stream: 2019-09-12 22:20:59.809 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.813
+Unexpected IOException with stream: 2019-09-12 22:20:59.813 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.814
+Unexpected IOException with stream: 2019-09-12 22:20:59.814 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'management.info.defaults.enabled' in any property source
+
+
+# Created on 2019-09-12T22:20:59.814
+Unexpected IOException with stream: 2019-09-12 22:20:59.814 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.815
+Unexpected IOException with stream: 2019-09-12 22:20:59.815 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.815
+Unexpected IOException with stream: 2019-09-12 22:20:59.815 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.817
+Unexpected IOException with stream: 2019-09-12 22:20:59.817 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.info.InfoEndpointAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.818
+Unexpected IOException with stream: 2019-09-12 22:20:59.818 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.819
+Unexpected IOException with stream: 2019-09-12 22:20:59.819 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.820
+Unexpected IOException with stream: 2019-09-12 22:20:59.820 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'management.endpoint.info.enabled' in any property source
+
+
+# Created on 2019-09-12T22:20:59.820
+Unexpected IOException with stream: 2019-09-12 22:20:59.820 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.821
+Unexpected IOException with stream: 2019-09-12 22:20:59.821 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.info.InfoEndpointAutoConfiguration.infoEndpoint()
+
+
+# Created on 2019-09-12T22:20:59.823
+Unexpected IOException with stream: 2019-09-12 22:20:59.822 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.logging.LogFileWebEndpointAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.830
+Unexpected IOException with stream: 2019-09-12 22:20:59.830 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'logging.file:' in any property source
+
+
+# Created on 2019-09-12T22:20:59.831
+Unexpected IOException with stream: 2019-09-12 22:20:59.830 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'logging.file' in any property source
+
+
+# Created on 2019-09-12T22:20:59.831
+Unexpected IOException with stream: 2019-09-12 22:20:59.831 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'logging.path:' in any property source
+
+
+# Created on 2019-09-12T22:20:59.832
+Unexpected IOException with stream: 2019-09-12 22:20:59.832 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'logging.path' in any property source
+
+
+# Created on 2019-09-12T22:20:59.832
+Unexpected IOException with stream: 2019-09-12 22:20:59.832 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'management.endpoint.logfile.external-file' in any property source
+
+
+# Created on 2019-09-12T22:20:59.833
+Unexpected IOException with stream: 2019-09-12 22:20:59.833 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.834
+Unexpected IOException with stream: 2019-09-12 22:20:59.834 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.logging.LoggersEndpointAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.835
+Unexpected IOException with stream: 2019-09-12 22:20:59.835 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.836
+Unexpected IOException with stream: 2019-09-12 22:20:59.836 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.838
+Unexpected IOException with stream: 2019-09-12 22:20:59.837 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.839
+Unexpected IOException with stream: 2019-09-12 22:20:59.839 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.840
+Unexpected IOException with stream: 2019-09-12 22:20:59.839 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.841
+Unexpected IOException with stream: 2019-09-12 22:20:59.840 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.842
+Unexpected IOException with stream: 2019-09-12 22:20:59.841 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.843
+Unexpected IOException with stream: 2019-09-12 22:20:59.842 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'management.endpoint.loggers.enabled' in any property source
+
+
+# Created on 2019-09-12T22:20:59.843
+Unexpected IOException with stream: 2019-09-12 22:20:59.843 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.844
+Unexpected IOException with stream: 2019-09-12 22:20:59.844 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.logging.LoggersEndpointAutoConfiguration.loggersEndpoint()
+
+
+# Created on 2019-09-12T22:20:59.844
+Unexpected IOException with stream: 2019-09-12 22:20:59.844 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.management.HeapDumpWebEndpointAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.845
+Unexpected IOException with stream: 2019-09-12 22:20:59.845 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.847
+Unexpected IOException with stream: 2019-09-12 22:20:59.846 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.850
+Unexpected IOException with stream: 2019-09-12 22:20:59.849 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'management.endpoint.heapdump.enabled' in any property source
+
+
+# Created on 2019-09-12T22:20:59.850
+Unexpected IOException with stream: 2019-09-12 22:20:59.850 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.851
+Unexpected IOException with stream: 2019-09-12 22:20:59.851 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.management.HeapDumpWebEndpointAutoConfiguration.heapDumpWebEndpoint()
+
+
+# Created on 2019-09-12T22:20:59.851
+Unexpected IOException with stream: 2019-09-12 22:20:59.851 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.management.ThreadDumpEndpointAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.852
+Unexpected IOException with stream: 2019-09-12 22:20:59.852 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.854
+Unexpected IOException with stream: 2019-09-12 22:20:59.853 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.854
+Unexpected IOException with stream: 2019-09-12 22:20:59.854 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'management.endpoint.threaddump.enabled' in any property source
+
+
+# Created on 2019-09-12T22:20:59.855
+Unexpected IOException with stream: 2019-09-12 22:20:59.855 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.856
+Unexpected IOException with stream: 2019-09-12 22:20:59.856 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.management.ThreadDumpEndpointAutoConfiguration.dumpEndpoint()
+
+
+# Created on 2019-09-12T22:20:59.858
+Unexpected IOException with stream: 2019-09-12 22:20:59.858 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.858
+Unexpected IOException with stream: 2019-09-12 22:20:59.858 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.metrics.MetricsAutoConfiguration$MeterBindersConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.860
+Unexpected IOException with stream: 2019-09-12 22:20:59.859 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.860
+Unexpected IOException with stream: 2019-09-12 22:20:59.860 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.861
+Unexpected IOException with stream: 2019-09-12 22:20:59.861 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.862
+Unexpected IOException with stream: 2019-09-12 22:20:59.861 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.864
+Unexpected IOException with stream: 2019-09-12 22:20:59.863 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.864
+Unexpected IOException with stream: 2019-09-12 22:20:59.864 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.metrics.MetricsAutoConfiguration$MeterBindersConfiguration.logbackMetrics()
+
+
+# Created on 2019-09-12T22:20:59.866
+Unexpected IOException with stream: 2019-09-12 22:20:59.865 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.867
+Unexpected IOException with stream: 2019-09-12 22:20:59.867 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.869
+Unexpected IOException with stream: 2019-09-12 22:20:59.869 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.870
+Unexpected IOException with stream: 2019-09-12 22:20:59.870 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.metrics.MetricsAutoConfiguration$MeterBindersConfiguration.uptimeMetrics()
+
+
+# Created on 2019-09-12T22:20:59.871
+Unexpected IOException with stream: 2019-09-12 22:20:59.870 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.872
+Unexpected IOException with stream: 2019-09-12 22:20:59.871 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.873
+Unexpected IOException with stream: 2019-09-12 22:20:59.873 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.875
+Unexpected IOException with stream: 2019-09-12 22:20:59.874 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.metrics.MetricsAutoConfiguration$MeterBindersConfiguration.processorMetrics()
+
+
+# Created on 2019-09-12T22:20:59.876
+Unexpected IOException with stream: 2019-09-12 22:20:59.875 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.876
+Unexpected IOException with stream: 2019-09-12 22:20:59.876 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.877
+Unexpected IOException with stream: 2019-09-12 22:20:59.877 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.878
+Unexpected IOException with stream: 2019-09-12 22:20:59.878 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.metrics.MetricsAutoConfiguration$MeterBindersConfiguration.fileDescriptorMetrics()
+
+
+# Created on 2019-09-12T22:20:59.879
+Unexpected IOException with stream: 2019-09-12 22:20:59.879 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.880
+Unexpected IOException with stream: 2019-09-12 22:20:59.880 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.metrics.MetricsAutoConfiguration$JvmMeterBindersConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.881
+Unexpected IOException with stream: 2019-09-12 22:20:59.881 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.883
+Unexpected IOException with stream: 2019-09-12 22:20:59.882 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.883
+Unexpected IOException with stream: 2019-09-12 22:20:59.883 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.metrics.MetricsAutoConfiguration$JvmMeterBindersConfiguration.jvmGcMetrics()
+
+
+# Created on 2019-09-12T22:20:59.884
+Unexpected IOException with stream: 2019-09-12 22:20:59.884 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.886
+Unexpected IOException with stream: 2019-09-12 22:20:59.886 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.887
+Unexpected IOException with stream: 2019-09-12 22:20:59.887 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.metrics.MetricsAutoConfiguration$JvmMeterBindersConfiguration.jvmMemoryMetrics()
+
+
+# Created on 2019-09-12T22:20:59.894
+Unexpected IOException with stream: 2019-09-12 22:20:59.893 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.894
+Unexpected IOException with stream: 2019-09-12 22:20:59.894 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.895
+Unexpected IOException with stream: 2019-09-12 22:20:59.895 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.metrics.MetricsAutoConfiguration$JvmMeterBindersConfiguration.jvmThreadMetrics()
+
+
+# Created on 2019-09-12T22:20:59.896
+Unexpected IOException with stream: 2019-09-12 22:20:59.896 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.897
+Unexpected IOException with stream: 2019-09-12 22:20:59.896 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.898
+Unexpected IOException with stream: 2019-09-12 22:20:59.897 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.metrics.MetricsAutoConfiguration$JvmMeterBindersConfiguration.classLoaderMetrics()
+
+
+# Created on 2019-09-12T22:20:59.899
+Unexpected IOException with stream: 2019-09-12 22:20:59.899 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.metrics.MetricsAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.900
+Unexpected IOException with stream: 2019-09-12 22:20:59.900 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.901
+Unexpected IOException with stream: 2019-09-12 22:20:59.901 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.901
+Unexpected IOException with stream: 2019-09-12 22:20:59.901 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.metrics.MetricsAutoConfiguration.micrometerClock()
+
+
+# Created on 2019-09-12T22:20:59.902
+Unexpected IOException with stream: 2019-09-12 22:20:59.902 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.metrics.MetricsAutoConfiguration.meterRegistryPostProcessor()
+
+
+# Created on 2019-09-12T22:20:59.903
+Unexpected IOException with stream: 2019-09-12 22:20:59.902 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.metrics.MetricsAutoConfiguration.propertiesMeterFilter()
+
+
+# Created on 2019-09-12T22:20:59.903
+Unexpected IOException with stream: 2019-09-12 22:20:59.903 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.904
+Unexpected IOException with stream: 2019-09-12 22:20:59.904 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.906
+Unexpected IOException with stream: 2019-09-12 22:20:59.906 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.907
+Unexpected IOException with stream: 2019-09-12 22:20:59.907 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.908
+Unexpected IOException with stream: 2019-09-12 22:20:59.908 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.909
+Unexpected IOException with stream: 2019-09-12 22:20:59.908 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.909
+Unexpected IOException with stream: 2019-09-12 22:20:59.909 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.910
+Unexpected IOException with stream: 2019-09-12 22:20:59.910 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.metrics.export.simple.SimpleMetricsExportAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.911
+Unexpected IOException with stream: 2019-09-12 22:20:59.911 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.metrics.export.simple.SimpleMetricsExportAutoConfiguration.simpleMeterRegistry()
+
+
+# Created on 2019-09-12T22:20:59.912
+Unexpected IOException with stream: 2019-09-12 22:20:59.912 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.914
+Unexpected IOException with stream: 2019-09-12 22:20:59.913 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.914
+Unexpected IOException with stream: 2019-09-12 22:20:59.914 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.metrics.export.simple.SimpleMetricsExportAutoConfiguration.simpleConfig()
+
+
+# Created on 2019-09-12T22:20:59.915
+Unexpected IOException with stream: 2019-09-12 22:20:59.915 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.915
+Unexpected IOException with stream: 2019-09-12 22:20:59.915 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.916
+Unexpected IOException with stream: 2019-09-12 22:20:59.916 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.917
+Unexpected IOException with stream: 2019-09-12 22:20:59.917 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.918
+Unexpected IOException with stream: 2019-09-12 22:20:59.918 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.919
+Unexpected IOException with stream: 2019-09-12 22:20:59.919 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.919
+Unexpected IOException with stream: 2019-09-12 22:20:59.919 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.920
+Unexpected IOException with stream: 2019-09-12 22:20:59.920 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.metrics.CompositeMeterRegistryAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.921
+Unexpected IOException with stream: 2019-09-12 22:20:59.921 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.922
+Unexpected IOException with stream: 2019-09-12 22:20:59.922 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.metrics.MetricsEndpointAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.923
+Unexpected IOException with stream: 2019-09-12 22:20:59.922 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.924
+Unexpected IOException with stream: 2019-09-12 22:20:59.924 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.925
+Unexpected IOException with stream: 2019-09-12 22:20:59.925 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.926
+Unexpected IOException with stream: 2019-09-12 22:20:59.925 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.926
+Unexpected IOException with stream: 2019-09-12 22:20:59.926 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.927
+Unexpected IOException with stream: 2019-09-12 22:20:59.927 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.927
+Unexpected IOException with stream: 2019-09-12 22:20:59.927 DEBUG 39174 --- [           main] o.s.c.e.PropertySourcesPropertyResolver  : Could not find key 'management.endpoint.metrics.enabled' in any property source
+
+
+# Created on 2019-09-12T22:20:59.928
+Unexpected IOException with stream: 2019-09-12 22:20:59.928 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.928
+Unexpected IOException with stream: 2019-09-12 22:20:59.928 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.metrics.MetricsEndpointAutoConfiguration.metricsEndpoint()
+
+
+# Created on 2019-09-12T22:20:59.929
+Unexpected IOException with stream: 2019-09-12 22:20:59.929 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.930
+Unexpected IOException with stream: 2019-09-12 22:20:59.930 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.931
+Unexpected IOException with stream: 2019-09-12 22:20:59.931 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.931
+Unexpected IOException with stream: 2019-09-12 22:20:59.931 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.932
+Unexpected IOException with stream: 2019-09-12 22:20:59.932 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.933
+Unexpected IOException with stream: 2019-09-12 22:20:59.933 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.933
+Unexpected IOException with stream: 2019-09-12 22:20:59.933 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.934
+Unexpected IOException with stream: 2019-09-12 22:20:59.934 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.metrics.jdbc.DataSourcePoolMetricsAutoConfiguration$HikariDataSourceMetricsConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.934
+Unexpected IOException with stream: 2019-09-12 22:20:59.934 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.metrics.jdbc.DataSourcePoolMetricsAutoConfiguration$HikariDataSourceMetricsConfiguration.hikariDataSourceMetricsPostProcessor()
+
+
+# Created on 2019-09-12T22:20:59.935
+Unexpected IOException with stream: 2019-09-12 22:20:59.935 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.metrics.jdbc.DataSourcePoolMetricsAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.935
+Unexpected IOException with stream: 2019-09-12 22:20:59.935 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.936
+Unexpected IOException with stream: 2019-09-12 22:20:59.936 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.937
+Unexpected IOException with stream: 2019-09-12 22:20:59.937 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.http.HttpMessageConvertersAutoConfiguration$StringHttpMessageConverterConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.938
+Unexpected IOException with stream: 2019-09-12 22:20:59.938 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.940
+Unexpected IOException with stream: 2019-09-12 22:20:59.939 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.940
+Unexpected IOException with stream: 2019-09-12 22:20:59.940 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.http.HttpMessageConvertersAutoConfiguration$StringHttpMessageConverterConfiguration.stringHttpMessageConverter()
+
+
+# Created on 2019-09-12T22:20:59.941
+Unexpected IOException with stream: 2019-09-12 22:20:59.941 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.942
+Unexpected IOException with stream: 2019-09-12 22:20:59.942 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.943
+Unexpected IOException with stream: 2019-09-12 22:20:59.942 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.943
+Unexpected IOException with stream: 2019-09-12 22:20:59.943 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.944
+Unexpected IOException with stream: 2019-09-12 22:20:59.944 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.http.JacksonHttpMessageConvertersConfiguration$MappingJackson2HttpMessageConverterConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.945
+Unexpected IOException with stream: 2019-09-12 22:20:59.945 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.946
+Unexpected IOException with stream: 2019-09-12 22:20:59.946 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.947
+Unexpected IOException with stream: 2019-09-12 22:20:59.947 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.947
+Unexpected IOException with stream: 2019-09-12 22:20:59.947 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.948
+Unexpected IOException with stream: 2019-09-12 22:20:59.948 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.http.JacksonHttpMessageConvertersConfiguration$MappingJackson2HttpMessageConverterConfiguration.mappingJackson2HttpMessageConverter()
+
+
+# Created on 2019-09-12T22:20:59.948
+Unexpected IOException with stream: 2019-09-12 22:20:59.948 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.http.JacksonHttpMessageConvertersConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.950
+Unexpected IOException with stream: 2019-09-12 22:20:59.950 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.http.HttpMessageConvertersAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.951
+Unexpected IOException with stream: 2019-09-12 22:20:59.951 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.952
+Unexpected IOException with stream: 2019-09-12 22:20:59.952 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.953
+Unexpected IOException with stream: 2019-09-12 22:20:59.953 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.http.HttpMessageConvertersAutoConfiguration.messageConverters()
+
+
+# Created on 2019-09-12T22:20:59.954
+Unexpected IOException with stream: 2019-09-12 22:20:59.953 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.954
+Unexpected IOException with stream: 2019-09-12 22:20:59.954 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.autoconfigure.web.client.RestTemplateAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.955
+Unexpected IOException with stream: 2019-09-12 22:20:59.955 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.956
+Unexpected IOException with stream: 2019-09-12 22:20:59.956 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.957
+Unexpected IOException with stream: 2019-09-12 22:20:59.957 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.autoconfigure.web.client.RestTemplateAutoConfiguration.restTemplateBuilder()
+
+
+# Created on 2019-09-12T22:20:59.957
+Unexpected IOException with stream: 2019-09-12 22:20:59.957 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.958
+Unexpected IOException with stream: 2019-09-12 22:20:59.958 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.959
+Unexpected IOException with stream: 2019-09-12 22:20:59.959 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.959
+Unexpected IOException with stream: 2019-09-12 22:20:59.959 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.metrics.web.client.RestTemplateMetricsAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.960
+Unexpected IOException with stream: 2019-09-12 22:20:59.960 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.962
+Unexpected IOException with stream: 2019-09-12 22:20:59.961 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.962
+Unexpected IOException with stream: 2019-09-12 22:20:59.962 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.metrics.web.client.RestTemplateMetricsAutoConfiguration.restTemplateTagConfigurer()
+
+
+# Created on 2019-09-12T22:20:59.963
+Unexpected IOException with stream: 2019-09-12 22:20:59.963 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.metrics.web.client.RestTemplateMetricsAutoConfiguration.metricsRestTemplateCustomizer()
+
+
+# Created on 2019-09-12T22:20:59.964
+Unexpected IOException with stream: 2019-09-12 22:20:59.964 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registering bean definition for @Bean method org.springframework.boot.actuate.autoconfigure.metrics.web.client.RestTemplateMetricsAutoConfiguration.metricsWebClientUriTagFilter()
+
+
+# Created on 2019-09-12T22:20:59.965
+Unexpected IOException with stream: 2019-09-12 22:20:59.964 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.965
+Unexpected IOException with stream: 2019-09-12 22:20:59.965 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.966
+Unexpected IOException with stream: 2019-09-12 22:20:59.966 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.967
+Unexpected IOException with stream: 2019-09-12 22:20:59.967 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
+# Created on 2019-09-12T22:20:59.968
+Unexpected IOException with stream: 2019-09-12 22:20:59.968 DEBUG 39174 --- [           main] a.ConfigurationClassBeanDefinitionReader : Registered bean definition for imported class 'org.springframework.boot.actuate.autoconfigure.metrics.web.servlet.WebMvcMetricsAutoConfiguration'
+
+
+# Created on 2019-09-12T22:20:59.969
+Unexpected IOException with stream: 2019-09-12 22:20:59.969 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry'
+
+
+# Created on 2019-09-12T22:20:59.971
+Unexpected IOException with stream: 2019-09-12 22:20:59.971 DEBUG 39174 --- [           main] o.s.b.f.s.DefaultListableBeanFactory     : Returning cached instance of singleton bean 'autoConfigurationReport'
+
+
