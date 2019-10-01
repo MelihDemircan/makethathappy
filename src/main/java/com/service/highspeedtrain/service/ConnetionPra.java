@@ -31,9 +31,9 @@ public class ConnetionPra {
 	}
 
 	public String GetPageContent(String url, Parametre parametre) throws Exception {
-		
+
 		url = url + (parametre == null ? "" : ("?" + parametre.toString()));
-		
+
 		URL obj = new URL(url);
 		conn = (HttpsURLConnection) obj.openConnection();
 
@@ -130,17 +130,18 @@ public class ConnetionPra {
 
 			Tren tren = new Tren();
 			for (int j = 0; j < trenElement.children().size(); j++) {
-
-				if (j == 0) {
-					// Sefer Saati
+				try {
+					if (j == 0) {
+						// Sefer Saati
 
 //					System.out.println(trenElement.children().get(j).getElementsByTag("span").get(0).childNode(0));
-					String saat = trenElement.children().get(j).getElementsByTag("span").get(0).childNode(0).toString();
-					tren.setSaat(saat);
+						String saat = trenElement.children().get(j).getElementsByTag("span").get(0).childNode(0)
+								.toString();
+						tren.setSaat(saat);
 
-				} else if (j == 4) {
-					// Doluluk Bilgisi
-					try {
+					} else if (j == 4) {
+						// Doluluk Bilgisi
+
 						if (trenElement.children().get(j).getElementsByTag("li").size() < 3)
 							break;
 
@@ -176,10 +177,11 @@ public class ConnetionPra {
 								}
 							}
 						}
-					} catch (Exception e) {
-						System.out.println(e);
-						return new ArrayList<>();
+
 					}
+				} catch (Exception e) {
+					System.out.println(e);
+					return new ArrayList<>();
 				}
 			}
 

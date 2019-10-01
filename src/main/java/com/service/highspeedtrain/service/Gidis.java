@@ -1,5 +1,6 @@
 package com.service.highspeedtrain.service;
 
+import java.io.UnsupportedEncodingException;
 import java.net.CookieHandler;
 import java.net.CookieManager;
 import java.net.URLEncoder;
@@ -18,22 +19,19 @@ public class Gidis {
 	@Autowired
 	private MailService mailService = new MailService();
 
-	private final String tarih = "27.09.2019";
-	private final String nereden = "%C4%B0stanbul(Pendik)";
-	private final String nereye = "Eski%C5%9Fehir";
-	private final String site = "https://ebilet.tcddtasimacilik.gov.tr/view/eybis/tnmGenel/tcddWebContent.jsf";
-	private final String resultSite = "https://ebilet.tcddtasimacilik.gov.tr/view/eybis/tnmGenel/int_sat_001.jsf";
+	
+	public static final String site = "https://ebilet.tcddtasimacilik.gov.tr/view/eybis/tnmGenel/tcddWebContent.jsf";
+	public static final String resultSite = "https://ebilet.tcddtasimacilik.gov.tr/view/eybis/tnmGenel/int_sat_001.jsf";
 
-	public Gidis() {
-	}
+	
 
-	public void star() throws Exception {
+	public void start(String nereden, String nereye, String tarih, List<String> saatler) throws Exception {
 
 		ConnetionPra http = new ConnetionPra();
 
 		CookieHandler.setDefault(new CookieManager());
 
-		Parametre parametre = new Parametre(nereden, nereye, tarih);
+		Parametre parametre = new Parametre(URLEncoder.encode(nereden, "UTF-8"), URLEncoder.encode(nereye, "UTF-8"), tarih);
 
 		String resultParam = http.GetPageContent(site, parametre);
 
@@ -47,50 +45,23 @@ public class Gidis {
 
 		List<Tren> trenList = http.getFormParams(resultTrenList);
 
-		// Gidis
-		Tren one = trenList.stream().filter(tren -> tren.getSaat().equals("17:44")).findAny().orElse(null);
-		Tren two = trenList.stream().filter(tren -> tren.getSaat().equals("18:21")).findAny().orElse(null);
-//		Tren tre = trenList.stream().filter(tren -> tren.getSaat().equals("19:31")).findAny().orElse(null);
+		List<Tren> trenSaatler = trenList.stream().filter(tren -> saatler.contains(tren.getSaat()))
+				.collect(Collectors.toList());
 
-		// Donus
-//		Tren two = trenList.stream().filter(tren -> tren.getSaat().equals("18:21")).findAny().orElse(null);
-//		Tren tre = trenList.stream().filter(tren -> tren.getSaat().equals("17:44")).findAny().orElse(null);
+		System.out.println("Trenler : " + trenList.stream().map(Object::toString).collect(Collectors.joining(",")));
+		System.out.println("Saatler : " + saatler.stream().map(Object::toString).collect(Collectors.joining(",")));
+		System.out.println(
+				"Trenler Saatler : " + trenSaatler.stream().map(Object::toString).collect(Collectors.joining(",")));
 
-		System.out.println(nereden + "/" + nereye + "/" + tarih);
+		for (Tren tren : trenSaatler) {
+			if (tren != null && tren.isPulman()) {
+				System.out.println("Sefer Bulundu " + nereden + "/" + nereye + "/" + tarih + "/" + tren.getSaat());
 
-		System.out.println(trenList.stream().map(Object::toString).collect(Collectors.joining(",")));
-
-		if (one != null && one.isPulman()) {
-			System.out.println("Sefer Bulundu " + one.getSaat());
-			mailService
-					.send("Eskisehir Istanbul (" + one.getSaat() + ") (" + tarih + ") " + "(" + one.getPulman() + ")");
-		} else if (two != null && two.isPulman()) {
-			System.out.println("Sefer Bulundu " + two.getSaat());
-			mailService
-					.send("Eskisehir Istanbul (" + two.getSaat() + ") (" + tarih + ") " + "(" + two.getPulman() + ")");
+				System.out.println("Sefer Bulundu " + tren.getSaat());
+				mailService.send(nereden + "/" + nereye + " (" + tren.getSaat() + ") (" + tarih + ") " + "("
+						+ tren.getPulman() + ")");
+			}
 		}
-//		else if (tre != null && tre.isPulman()) {
-//			System.out.println("Sefer Bulundu " + tre.getSaat());
-//			mailService
-//					.send("Eskisehir Istanbul (" + tre.getSaat() + ") (" + tarih + ") " + "(" + tre.getPulman() + ")");
-//		} 
-		else {
-			System.out.println("Sefer Yok (Economi)");
-		}
-
-//		if (one != null && one.isBusiness()) {
-//			System.out.println("Sefer Bulundu 17:44");
-//			mailService.send("Eskisehir Istanbul  (17:44) (" + tarih + ") " + "(" + one.getBusiness() + ")");
-//		} else
-//		if (two != null && two.isBusiness()) {
-//			System.out.println("Sefer Bulundu 18:21");
-//			mailService.send("Eskisehir Istanbul  (18:21) (" + tarih + ") " + "(" + two.getBusiness() + ")");
-//		} else if (tre != null && tre.isBusiness()) {
-//			System.out.println("Sefer Bulundu 19:31");
-//			mailService.send("Eskisehir Istanbul  (19:31) (" + tarih + ") " + "(" + tre.getBusiness() + ")");
-//		} else {
-//			System.out.println("Sefer Yok (Business)");
-//		}
 		System.out.println("•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••");
 	}
 }
