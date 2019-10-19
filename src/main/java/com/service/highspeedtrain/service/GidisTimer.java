@@ -20,10 +20,10 @@ public class GidisTimer extends TimerTask {
 			final String nereden = "Eskişehir";
 			final String nereye = "İstanbul(Pendik)";
 			List<String> saatler = new ArrayList<>();
-			saatler.add("16:18");
-			saatler.add("18:31");
-			saatler.add("20:11");
-			saatler.add("20:38");
+			saatler.add("07:31");
+			saatler.add("08:41");
+			saatler.add("09:33");
+			saatler.add("11:11");
 			Gidis gidis = new Gidis();
 			System.out.println("Start Gidis Timer");
 			gidis.start(nereden, nereye, tarih, saatler);
@@ -32,11 +32,12 @@ public class GidisTimer extends TimerTask {
 		}
 
 		try {
-			final String tarih = "18.10.2019";
+			final String tarih = "20.10.2019";
 			final String nereden = "İstanbul(Pendik)";
 			final String nereye = "Eskişehir";
 
 			List<String> saatler = new ArrayList<>();
+			saatler.add("15:57");
 			saatler.add("17:44");
 			saatler.add("18:21");
 			saatler.add("19:31");
