@@ -13,11 +13,11 @@ public class Tren {
 	private String business;
 
 	public boolean isPulman() {
-		return !pulman.equals("0") && !pulman.equals("1");
+		return !pulman.equals("0");
 	}
 	
 	public boolean isBusiness() {
-		return !business.equals("0")&& business.equals("1");
+		return !business.equals("0");
 	}
 
 }
