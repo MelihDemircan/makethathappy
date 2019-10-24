@@ -8,8 +8,7 @@ public class GidisTimer extends TimerTask {
 
 	private static int count = 1;
 
-	public GidisTimer() {
-	}
+	public GidisTimer() {}
 
 	@Override
 	public void run() {
@@ -37,9 +36,9 @@ public class GidisTimer extends TimerTask {
 			final String nereye = "Eskişehir";
 
 			List<String> saatler = new ArrayList<>();
-			saatler.add("13:58");
-			saatler.add("15:57");
-			saatler.add("17:44");
+			// saatler.add("13:58");
+			// saatler.add("15:57");
+			// saatler.add("17:44");
 			saatler.add("18:21");
 			saatler.add("19:31");
 			Gidis gidis = new Gidis();
@@ -48,16 +47,16 @@ public class GidisTimer extends TimerTask {
 		} catch (Exception e1) {
 			e1.printStackTrace();
 		}
-		
+
 		try {
 			final String tarih = "25.10.2019";
 			final String nereden = "İstanbul(Pendik)";
 			final String nereye = "Eskişehir";
 
 			List<String> saatler = new ArrayList<>();
-			saatler.add("15:57");
-			saatler.add("17:44");
-			saatler.add("18:21");
+			// saatler.add("15:57");
+			// saatler.add("17:44");
+			// saatler.add("18:21");
 			saatler.add("19:31");
 			Gidis gidis = new Gidis();
 			System.out.println("Start Donus Timer");
@@ -65,14 +64,14 @@ public class GidisTimer extends TimerTask {
 		} catch (Exception e1) {
 			e1.printStackTrace();
 		}
-		
+
 		try {
 			final String tarih = "26.10.2019";
 			final String nereden = "İstanbul(Pendik)";
 			final String nereye = "Eskişehir";
 
 			List<String> saatler = new ArrayList<>();
-			saatler.add("12:13");
+			// saatler.add("12:1sss3");
 			saatler.add("13:15");
 			saatler.add("13:58");
 			saatler.add("15:57");
