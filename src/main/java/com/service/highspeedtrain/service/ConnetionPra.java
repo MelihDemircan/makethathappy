@@ -8,6 +8,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 import javax.net.ssl.HttpsURLConnection;
+import javax.net.ssl.SSLContext;
+import javax.net.ssl.TrustManager;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -37,6 +39,10 @@ public class ConnetionPra {
 		URL obj = new URL(url);
 		conn = (HttpsURLConnection) obj.openConnection();
 
+        SSLContext sc = SSLContext.getInstance("SSL");  
+        sc.init(null, new TrustManager[]{new TrustAnyTrustManager()}, new java.security.SecureRandom());  
+
+        conn.setSSLSocketFactory(sc.getSocketFactory());
 		// default is GET
 		conn.setRequestMethod("GET");
 
@@ -99,6 +105,11 @@ public class ConnetionPra {
 			}
 		}
 
+		 SSLContext sc = SSLContext.getInstance("SSL");  
+	        sc.init(null, new TrustManager[]{new TrustAnyTrustManager()}, new java.security.SecureRandom());  
+
+	        conn.setSSLSocketFactory(sc.getSocketFactory());
+	        
 		int responseCode = conn.getResponseCode();
 		System.out.println("\nSending 'GET' request to URL : " + url);
 		System.out.println("Response Code : " + responseCode);
