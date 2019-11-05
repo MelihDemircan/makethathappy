@@ -14,21 +14,7 @@ public class GidisTimer extends TimerTask {
 	public void run() {
 		System.out.println(count++);
 
-		try {
-			final String tarih = "10.11.2019";
-			final String nereden = "Eskişehir";
-			final String nereye = "İstanbul(Pendik)";
-			List<String> saatler = new ArrayList<>();
-//			saatler.add("16:18");
-			saatler.add("18:31");
-			saatler.add("20:11");
-			saatler.add("20:38");
-			Gidis gidis = new Gidis();
-			System.out.println("Start Gidis Timer");
-			gidis.start(nereden, nereye, tarih, saatler);
-		} catch (Exception e1) {
-			e1.printStackTrace();
-		}
+
 
 		try {
 			final String tarih = "08.11.2019";
@@ -43,6 +29,22 @@ public class GidisTimer extends TimerTask {
 			saatler.add("19:31");
 			Gidis gidis = new Gidis();
 			System.out.println("Start Donus Timer");
+			gidis.start(nereden, nereye, tarih, saatler);
+		} catch (Exception e1) {
+			e1.printStackTrace();
+		}
+		
+		try {
+			final String tarih = "10.11.2019";
+			final String nereden = "Eskişehir";
+			final String nereye = "İstanbul(Pendik)";
+			List<String> saatler = new ArrayList<>();
+//			saatler.add("16:18");
+			saatler.add("18:31");
+			saatler.add("20:11");
+			saatler.add("20:38");
+			Gidis gidis = new Gidis();
+			System.out.println("Start Gidis Timer");
 			gidis.start(nereden, nereye, tarih, saatler);
 		} catch (Exception e1) {
 			e1.printStackTrace();
