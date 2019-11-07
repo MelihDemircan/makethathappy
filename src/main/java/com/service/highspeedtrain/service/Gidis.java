@@ -1,8 +1,5 @@
 package com.service.highspeedtrain.service;
 
-import java.io.UnsupportedEncodingException;
-import java.net.CookieHandler;
-import java.net.CookieManager;
 import java.net.URLEncoder;
 import java.util.List;
 import java.util.stream.Collectors;
@@ -10,7 +7,6 @@ import java.util.stream.Collectors;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-import com.service.highspeedtrain.data.Parametre;
 import com.service.highspeedtrain.data.Tren;
 
 @Component
@@ -19,31 +15,14 @@ public class Gidis {
 	@Autowired
 	private MailService mailService = new MailService();
 
-	
-	public static final String site = "https://ebilet.tcddtasimacilik.gov.tr/view/eybis/tnmGenel/tcddWebContent.jsf";
-	public static final String resultSite = "https://ebilet.tcddtasimacilik.gov.tr/view/eybis/tnmGenel/int_sat_001.jsf";
-
-	
-
 	public void start(String nereden, String nereye, String tarih, List<String> saatler) throws Exception {
 
-		ConnetionPra http = new ConnetionPra();
+		HttpClientExample obj = new HttpClientExample();
 
-		CookieHandler.setDefault(new CookieManager());
-
-		Parametre parametre = new Parametre(URLEncoder.encode(nereden, "UTF-8"), URLEncoder.encode(nereye, "UTF-8"), tarih);
-
-		String resultParam = http.GetPageContent(site, parametre);
-
-		parametre.add("&javax.faces.ViewState="
-				+ URLEncoder.encode(resultParam.split("update")[3].split("\\[")[2].split("]")[0], "UTF-8"));
-
-		System.out.println(parametre.toString());
-		String resultTren = http.GetPageContent(site, parametre);
-
-		String resultTrenList = http.Seferler(resultSite);
-
-		List<Tren> trenList = http.getFormParams(resultTrenList);
+		String viewState = obj.sendPostGetView(URLEncoder.encode(nereden, "UTF-8"), URLEncoder.encode(nereye, "UTF-8"), URLEncoder.encode(tarih, "UTF-8"));
+		obj.sendPostRequest(viewState, URLEncoder.encode(nereden, "UTF-8"), URLEncoder.encode(nereye, "UTF-8"), URLEncoder.encode(tarih, "UTF-8"));
+		String response = obj.sendPostGetTrain();
+		List<Tren> trenList = new TrainParse().getFormParams(response);
 
 		List<Tren> trenSaatler = trenList.stream().filter(tren -> saatler.contains(tren.getSaat()))
 				.collect(Collectors.toList());
