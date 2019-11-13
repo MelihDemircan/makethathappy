@@ -6,5 +6,7 @@ com/service/highspeedtrain/service/Gidis.class
 com/service/highspeedtrain/service/MailService.class
 com/service/highspeedtrain/HighspeedtrainApplication.class
 com/service/highspeedtrain/exception/CustomizedResponseEntityExceptionHandler.class
+com/service/highspeedtrain/service/HttpClientExample.class
 com/service/highspeedtrain/exception/UserNotFoundException.class
 com/service/highspeedtrain/service/MailService$1.class
+com/service/highspeedtrain/service/TrainParse.class
