@@ -21,6 +21,7 @@ com/service/highspeedtrain/service/Gidis.class
 com/service/highspeedtrain/repository/PostRepository.class
 com/service/highspeedtrain/controller/PersonVersioningController.class
 com/service/highspeedtrain/data/SomeBean.class
+com/service/highspeedtrain/service/TrustAnyTrustManager.class
 com/service/highspeedtrain/data/PersonV1.class
 com/service/highspeedtrain/service/ConnetionPra.class
 com/service/highspeedtrain/data/Parametre.class
