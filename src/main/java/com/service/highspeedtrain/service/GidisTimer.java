@@ -15,26 +15,26 @@ public class GidisTimer extends TimerTask {
 		System.out.println(count++);
 
 		
+//		try {
+//			final String tarih = "15.11.2019";
+//			final String nereden = "İstanbul(Pendik)";
+//			final String nereye = "Eskişehir";
+//
+//			List<String> saatler = new ArrayList<>();
+//			// saatler.add("13:58");
+//			// saatler.add("15:57");
+//			saatler.add("17:44");
+//			saatler.add("18:21");
+//			saatler.add("19:31");
+//			Gidis gidis = new Gidis();
+//			System.out.println("Start Donus Timer");
+//			gidis.start(nereden, nereye, tarih, saatler);
+//		} catch (Exception e1) {
+//			e1.printStackTrace();
+//		}
+//		
 		try {
 			final String tarih = "15.11.2019";
-			final String nereden = "İstanbul(Pendik)";
-			final String nereye = "Eskişehir";
-
-			List<String> saatler = new ArrayList<>();
-			// saatler.add("13:58");
-			// saatler.add("15:57");
-			saatler.add("17:44");
-			saatler.add("18:21");
-			saatler.add("19:31");
-			Gidis gidis = new Gidis();
-			System.out.println("Start Donus Timer");
-			gidis.start(nereden, nereye, tarih, saatler);
-		} catch (Exception e1) {
-			e1.printStackTrace();
-		}
-		
-		try {
-			final String tarih = "17.11.2019";
 			final String nereden = "Eskişehir";
 			final String nereye = "İstanbul(Pendik)";
 			List<String> saatler = new ArrayList<>();
