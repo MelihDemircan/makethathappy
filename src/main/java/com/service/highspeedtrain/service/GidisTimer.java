@@ -7,12 +7,13 @@ import java.util.TimerTask;
 public class GidisTimer extends TimerTask {
 
 	private static int count = 1;
+	public static int countSend = 0;
 
 	public GidisTimer() {}
 
 	@Override
 	public void run() {
-		System.out.println(count++);
+		System.out.println(count++ + " / " + countSend);
 
 		//
 		try {
@@ -35,9 +36,9 @@ public class GidisTimer extends TimerTask {
 		}
 
 		try {
-			final String tarih = "25.11.2019";
-			final String nereden = "İstanbul(Pendik)";
-			final String nereye = "Eskişehir";
+			final String tarih = "24.11.2019";
+			final String nereden = "Eskişehir";
+			final String nereye = "İstanbul(Pendik)";
 
 			List<String> saatler = new ArrayList<>();
 			// saatler.add("13:58");

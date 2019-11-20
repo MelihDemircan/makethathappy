@@ -55,6 +55,7 @@ public class Gidis {
 
 		for (Tren tren : trenSaatler) {
 			if (tren != null && tren.isPulman()) {
+				GidisTimer.countSend++;
 				System.out.println("Sefer Bulundu " + nereden + "/" + nereye + "/" + tarih + "/" + tren.getSaat());
 
 				System.out.println("Sefer Bulundu " + tren.getSaat());
