@@ -17,7 +17,7 @@ public class GidisTimer extends TimerTask {
 
 		//
 		try {
-			final String tarih = "22.11.2019";
+			final String tarih = "29.11.2019";
 			final String nereden = "İstanbul(Pendik)";
 			final String nereye = "Eskişehir";
 			List<String> saatler = new ArrayList<>();
@@ -35,23 +35,23 @@ public class GidisTimer extends TimerTask {
 			e1.printStackTrace();
 		}
 
-		try {
-			final String tarih = "24.11.2019";
-			final String nereden = "Eskişehir";
-			final String nereye = "İstanbul(Pendik)";
-
-			List<String> saatler = new ArrayList<>();
-			// saatler.add("13:58");
-			saatler.add("16:18");
-			saatler.add("18:31");
-			saatler.add("20:11");
-			saatler.add("20:38");
-			Gidis gidis = new Gidis();
-			System.out.println("Start Donus Timer");
-			gidis.start(nereden, nereye, tarih, saatler);
-		} catch (Exception e1) {
-			e1.printStackTrace();
-		}
+//		try {
+//			final String tarih = "24.11.2019";
+//			final String nereden = "Eskişehir";
+//			final String nereye = "İstanbul(Pendik)";
+//
+//			List<String> saatler = new ArrayList<>();
+//			// saatler.add("13:58");
+//			saatler.add("16:18");
+//			saatler.add("18:31");
+//			saatler.add("20:11");
+//			saatler.add("20:38");
+//			Gidis gidis = new Gidis();
+//			System.out.println("Start Donus Timer");
+//			gidis.start(nereden, nereye, tarih, saatler);
+//		} catch (Exception e1) {
+//			e1.printStackTrace();
+//		}
 
 		// try {
 		// final String tarih = "25.10.2019";
