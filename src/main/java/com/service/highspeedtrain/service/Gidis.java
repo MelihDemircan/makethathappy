@@ -1,6 +1,5 @@
 package com.service.highspeedtrain.service;
 
-import java.io.UnsupportedEncodingException;
 import java.net.CookieHandler;
 import java.net.CookieManager;
 import java.net.URLEncoder;
@@ -31,7 +30,7 @@ public class Gidis {
 
 		CookieHandler.setDefault(new CookieManager());
 
-		Parametre parametre = new Parametre(URLEncoder.encode(nereden, "UTF-8"), URLEncoder.encode(nereye, "UTF-8"), tarih);
+		Parametre parametre = new Parametre(URLEncoder.encode(nereden, "UTF-8"), URLEncoder.encode(nereye, "UTF-8"), URLEncoder.encode(tarih, "UTF-8"));
 
 		String resultParam = http.GetPageContent(site, parametre);
 
