@@ -42,7 +42,7 @@ public class GidisTimer extends TimerTask {
 
 			List<String> saatler = new ArrayList<>();
 //			// saatler.add("13:58");
-			saatler.add("16:58");
+//			saatler.add("16:58");
 			saatler.add("18:36");
 			saatler.add("19:55");
 			saatler.add("20:38");
