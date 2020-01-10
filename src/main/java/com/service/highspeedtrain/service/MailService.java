@@ -1,5 +1,7 @@
 package com.service.highspeedtrain.service;
 
+import java.time.ZonedDateTime;
+import java.time.format.DateTimeFormatter;
 import java.util.Properties;
 
 import javax.mail.Message;
@@ -40,7 +42,7 @@ public class MailService {
 			message.setFrom(new InternetAddress("melih-demircan@hotmail.com"));
 			message.setRecipients(Message.RecipientType.TO, InternetAddress.parse("melih-demircan@hotmail.com"));
 			message.setSubject(konu);
-			message.setText("Dear Mail Crawler," + "\n\n Please do not spam my email!");
+			message.setText(DateTimeFormatter.ofPattern("dd/MM/yyyy - hh:mm").format(ZonedDateTime.now()));
 
 			Transport.send(message);
 
