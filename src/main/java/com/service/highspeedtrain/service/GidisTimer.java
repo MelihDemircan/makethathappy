@@ -35,43 +35,43 @@ public class GidisTimer extends TimerTask {
 		// e1.printStackTrace();
 		// }
 //		//
-//		 try {
-//		 final String tarih = "26.01.2020";
-//		 final String nereden = "Eskişehir";
-//		 final String nereye = "İstanbul(Pendik)";
-//		
-//		 List<String> saatler = new ArrayList<>();
+		 try {
+		 final String tarih = "26.01.2020";
+		 final String nereden = "Eskişehir";
+		 final String nereye = "İstanbul(Pendik)";
+		
+		 List<String> saatler = new ArrayList<>();
 //		 saatler.add("16:58");
 //		 saatler.add("18:36");
-//		 saatler.add("19:55");
-//		 saatler.add("20:38");
-//		 Gidis gidis = new Gidis();
-//		 System.out.println("Start Donus Timer");
-//		 gidis.start(nereden, nereye, tarih, saatler);
-//		 } catch (Exception e1) {
-//		 e1.printStackTrace();
-//		 }
+		 saatler.add("19:55");
+		 saatler.add("20:38");
+		 Gidis gidis = new Gidis();
+		 System.out.println("Start Donus Timer");
+		 gidis.start(nereden, nereye, tarih, saatler);
+		 } catch (Exception e1) {
+		 e1.printStackTrace();
+		 }
 
 		////// Konya Konya YHT
 
-		try {
-			final String tarih = "24.01.2020";
-			final String nereden = "İstanbul(Pendik)";
-			final String nereye = "Konya YHT";
-			List<String> saatler = new ArrayList<>();
-			// saatler.add("12:13");
-			// saatler.add("13:15");
-			// saatler.add("13:58");
-			// saatler.add("15:57");
-//			saatler.add("17:28");
-//			saatler.add("18:22");
-			saatler.add("19:32");
-			Gidis gidis = new Gidis();
-			System.out.println("Start Gidis Timer");
-			gidis.start(nereden, nereye, tarih, saatler);
-		} catch (Exception e1) {
-			e1.printStackTrace();
-		}
+//		try {
+//			final String tarih = "24.01.2020";
+//			final String nereden = "İstanbul(Pendik)";
+//			final String nereye = "Konya YHT";
+//			List<String> saatler = new ArrayList<>();
+//			// saatler.add("12:13");
+//			// saatler.add("13:15");
+//			// saatler.add("13:58");
+//			// saatler.add("15:57");
+////			saatler.add("17:28");
+////			saatler.add("18:22");
+//			saatler.add("19:32");
+//			Gidis gidis = new Gidis();
+//			System.out.println("Start Gidis Timer");
+//			gidis.start(nereden, nereye, tarih, saatler);
+//		} catch (Exception e1) {
+//			e1.printStackTrace();
+//		}
 
 //		try {
 //			final String tarih = "26.01.2020";
