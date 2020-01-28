@@ -62,14 +62,14 @@ public class Gidis {
 						+ tren.getPulman() + ")");
 			}
 			
-			if (tren != null && tren.isBusiness()) {
-				GidisTimer.countSend++;
-				System.out.println("Sefer Bulundu " + nereden + "/" + nereye + "/" + tarih + "/" + tren.getSaat());
-
-				System.out.println("Sefer Bulundu " + tren.getSaat());
-				mailService.send("Business " + nereden + "/" + nereye + " (" + tren.getSaat() + ") (" + tarih + ") " + "("
-						+ tren.getPulman() + ")");
-			}
+//			if (tren != null && tren.isBusiness()) {
+//				GidisTimer.countSend++;
+//				System.out.println("Sefer Bulundu " + nereden + "/" + nereye + "/" + tarih + "/" + tren.getSaat());
+//
+//				System.out.println("Sefer Bulundu " + tren.getSaat());
+//				mailService.send("Business " + nereden + "/" + nereye + " (" + tren.getSaat() + ") (" + tarih + ") " + "("
+//						+ tren.getPulman() + ")");
+//			}
 		}
 		System.out.println("•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••");
 	}
