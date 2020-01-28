@@ -36,15 +36,15 @@ public class GidisTimer extends TimerTask {
 		// }
 //		//
 		 try {
-		 final String tarih = "26.01.2020";
+		 final String tarih = "28.01.2020";
 		 final String nereden = "Eskişehir";
-		 final String nereye = "İstanbul(Pendik)";
+		 final String nereye = "Ankara Gar";
 		
 		 List<String> saatler = new ArrayList<>();
-//		 saatler.add("16:58");
-//		 saatler.add("18:36");
-		 saatler.add("19:55");
-		 saatler.add("20:38");
+//		 saatler.add("18:38");
+//		 saatler.add("20:07");
+		 saatler.add("20:25");
+		 saatler.add("21:09");
 		 Gidis gidis = new Gidis();
 		 System.out.println("Start Donus Timer");
 		 gidis.start(nereden, nereye, tarih, saatler);
