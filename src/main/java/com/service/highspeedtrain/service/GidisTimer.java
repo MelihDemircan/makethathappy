@@ -7,13 +7,14 @@ import java.util.TimerTask;
 public class GidisTimer extends TimerTask {
 
 	private static int count = 1;
-	public static int countSend = 0;
+	public static int countSendEkonomi = 0;
+	public static int countSendBusiness = 0;
 
 	public GidisTimer() {}
 
 	@Override
 	public void run() {
-		System.out.println(count++ + " / " + countSend);
+		System.out.println(count++ + " / " + countSendEkonomi);
 
 		//
 		try {
