@@ -23,8 +23,8 @@ public class GidisTimer extends TimerTask {
 			final String nereden = "Eskişehir";
 			List<String> saatler = new ArrayList<>();
 			saatler.add("20:38");
-			saatler.add("19:55");
-			saatler.add("18:36");
+//			saatler.add("19:55");
+//			saatler.add("18:36");
 			Gidis gidis = new Gidis();
 			System.out.println("Start Gidis Timer");
 			gidis.start(nereden, nereye, tarih, saatler);
