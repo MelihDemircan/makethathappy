@@ -18,19 +18,22 @@ public class GidisTimer extends TimerTask {
 
 		//
 		try {
-			final String tarih = "17.02.2020";
+			final String tarih = "21.02.2020";
 			final String nereden = "İstanbul(Bostancı)";
 			final String nereye = "Eskişehir";
 			List<String> saatler = new ArrayList<>();
-			saatler.add("06:09");
-			saatler.add("06:58");
-//			saatler.add("18:36");
+			saatler.add("17:05");
+			saatler.add("17:59");
+			saatler.add("19:09");
+			saatler.add("19:09");
 			Gidis gidis = new Gidis();
 			System.out.println("Start Gidis Timer");
 			gidis.start(nereden, nereye, tarih, saatler);
 		} catch (Exception e1) {
 			e1.printStackTrace();
 		}
+		
+		
 		// //
 		// try {
 		// final String tarih = "28.01.2020";
