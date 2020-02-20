@@ -53,14 +53,14 @@ public class Gidis {
 				"Trenler Saatler : " + trenSaatler.stream().map(Object::toString).collect(Collectors.joining(",")));
 
 		for (Tren tren : trenSaatler) {
-//			if (tren != null && tren.isPulman()) {
-//				GidisTimer.countSendEkonomi++;
-//				System.out.println("Sefer Bulundu " + nereden + "/" + nereye + "/" + tarih + "/" + tren.getSaat());
-//
-//				System.out.println("Sefer Bulundu " + tren.getSaat());
-//				mailService.send(nereden + "/" + nereye + " (" + tren.getSaat() + ") (" + tarih + ") " + "("
-//						+ tren.getPulman() + ")");
-//			}
+			if (tren != null && tren.isPulman()) {
+				GidisTimer.countSendEkonomi++;
+				System.out.println("Sefer Bulundu " + nereden + "/" + nereye + "/" + tarih + "/" + tren.getSaat());
+
+				System.out.println("Sefer Bulundu " + tren.getSaat());
+				mailService.send(nereden + "/" + nereye + " (" + tren.getSaat() + ") (" + tarih + ") " + "("
+						+ tren.getPulman() + ")");
+			}
 			
 			if (tren != null && tren.isBusiness()) {
 				GidisTimer.countSendBusiness++;

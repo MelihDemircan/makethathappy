@@ -14,7 +14,7 @@ public class GidisTimer extends TimerTask {
 
 	@Override
 	public void run() {
-		System.out.println(count++ + " / " + countSendEkonomi);
+		System.out.println(count++ + " / " + countSendEkonomi + " / " + countSendBusiness);
 
 		//
 		try {
