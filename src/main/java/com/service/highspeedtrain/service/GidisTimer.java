@@ -18,7 +18,7 @@ public class GidisTimer extends TimerTask {
 
 		//
 		try {
-			final String tarih = "23.02.2020";
+			final String tarih = "01.03.2020";
 			final String nereye = "İstanbul(Bostancı)";
 			final String nereden = "Eskişehir";
 			List<String> saatler = new ArrayList<>();
