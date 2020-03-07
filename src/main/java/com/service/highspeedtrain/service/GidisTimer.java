@@ -22,7 +22,7 @@ public class GidisTimer extends TimerTask {
 			final String nereye = "İstanbul(Bostancı)";
 			final String nereden = "Eskişehir";
 			List<String> saatler = new ArrayList<>();
-			saatler.add("16:58");
+//			saatler.add("16:58");
 			saatler.add("18:36");
 			saatler.add("19:55");
 			saatler.add("20:38");
