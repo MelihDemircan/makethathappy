@@ -25,8 +25,8 @@ public class GidisTimer extends TimerTask {
 //			saatler.add("16:58");
 //			saatler.add("18:36");
 //			saatler.add("19:55");
-			saatler.add("16:58");
-			saatler.add("18:36");
+//			saatler.add("16:58");
+//			saatler.add("18:36");
 			saatler.add("19:55");
 			saatler.add("20:38");
 			Gidis gidis = new Gidis();
